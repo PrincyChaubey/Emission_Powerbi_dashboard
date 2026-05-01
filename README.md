@@ -26,8 +26,9 @@ Analysis of Emission data reported by companies from 2021-2023
 ## Tools Used
 - Power BI
 - Excel
-
-  
+## Dashboard preview
+ <img width="1303" height="717" alt="Emission Dashboard" src="https://github.com/user-attachments/assets/319c1159-0b6b-4d59-b786-0d70bdd7ed54" />
+ 
 ## Features
 - Interactive slicers
 - KPI cards
