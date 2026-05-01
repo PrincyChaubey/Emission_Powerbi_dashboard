@@ -1,0 +1,509 @@
+company_id,company_name,ticker,country,region,sector,industry,reporting_year,scope1_mt_co2e,scope2_location_mt_co2e,scope2_market_mt_co2e,scope3_total_mt_co2e,scope1_plus_scope2_location_mt,emissions_intensity_mt_per_musd,revenue_usd_millions,reporting_standard,data_source,third_party_verified,net_zero_target_year,notes,data_collection_date
+GHG0001,Sasol,SOL,South Africa,Africa,Materials,Chemicals,2022,47.3,2.1,,,49.4,0.008386,5891,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,Coal-to-liquid fuel — very high Scope 1,2024-01-01 to 2025-12-31
+GHG0002,Eskom,—,South Africa,Africa,Utilities,Electric Power,2022,195,,,,195,,,GHG Protocol (ZA),SouthAfricaGHGInv_2023,FALSE,,State-owned; coal dominant; financial distress,2024-01-01 to 2025-12-31
+GHG0003,Woodside Energy,WDS,Australia,Asia-Pacific,Energy,E&P (LNG),2022,7.1,0.5,,,7.6,0.000452,16816,GHG Protocol,NGER_2023/CDP_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0004,Santos,STO,Australia,Asia-Pacific,Energy,E&P,2022,6.3,0.4,,,6.7,0.000923,7259,GHG Protocol,NGER_2023/CDP_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0005,BHP,BHP,Australia,Asia-Pacific,Materials,Mining,2022,14.9,3.4,,,18.3,0.000281,65098,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0006,South32,S32,Australia,Asia-Pacific,Materials,Mining,2022,14.2,2.3,,,16.5,0.001741,9476,GHG Protocol,NGER_2023/CDP_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0007,BlueScope Steel,BSL,Australia,Asia-Pacific,Materials,Steel,2022,5.9,1.2,,,7.1,0.000553,12834,GHG Protocol,NGER_2023/CDP_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0008,Fortescue Metals Group,FMG,Australia,Asia-Pacific,Materials,Mining,2022,2.5,1.8,,,4.3,0.000247,17395,GHG Protocol,NGER_2023/CDP_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0009,Evolution Mining,EVN,Australia,Asia-Pacific,Materials,Mining,2022,0.5,0.4,,,0.9,0.00047,1914,GHG Protocol,NGER_2023/CDP_2023,TRUE,2050,Gold mining,2024-01-01 to 2025-12-31
+GHG0010,Iluka Resources,ILU,Australia,Asia-Pacific,Materials,Mining,2022,0.4,0.2,,,0.6,0.000362,1658,GHG Protocol,NGER_2023/CDP_2023,TRUE,2050,Mineral sands,2024-01-01 to 2025-12-31
+GHG0011,Poseidon Nickel,POS.ASX,Australia,Asia-Pacific,Materials,Mining,2022,0.2,0.1,,,0.3,,,GHG Protocol,NGER_2023,FALSE,,Small but included for diversity,2024-01-01 to 2025-12-31
+GHG0012,Qantas,QAN,Australia,Asia-Pacific,Transportation,Airlines,2022,9.3,0.1,0.1,,9.4,0.00104,9042,GHG Protocol,NGER_2023/CDP_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0013,AGL Energy,AGL,Australia,Asia-Pacific,Utilities,Electric Power,2023,27.9,0.2,,,28.1,0.002449,11476,GHG Protocol,NGER_2023/CDP_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0014,Origin Energy,ORG,Australia,Asia-Pacific,Utilities,Gas & Power,2022,20.1,0.4,,,20.5,0.001287,15928,GHG Protocol,NGER_2023/CDP_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0015,Meituan,3690.HK,China,Asia-Pacific,Consumer Discretionary,E-Commerce,2022,0.6,0.3,,,0.9,3.40E-05,26560,GHG Protocol (CN),SustainabilityReport_2023,FALSE,2030,,2024-01-01 to 2025-12-31
+GHG0016,China Mengniu Dairy,2319.HK,China,Asia-Pacific,Consumer Staples,Food,2022,1.8,0.5,,,2.3,0.000192,12009,GHG Protocol (CN),CDP_2023/SustainabilityReport_2023,FALSE,2030,,2024-01-01 to 2025-12-31
+GHG0017,China Shenhua Energy,601088.SS,China,Asia-Pacific,Energy,Coal & Power,2022,312,8.2,,,320.2,0.008643,37048,GHG Protocol (CN),SustainabilityReport_2023,FALSE,2060,Largest coal company; highest Scope 1,2024-01-01 to 2025-12-31
+GHG0018,PetroChina (CNPC),601857.SS,China,Asia-Pacific,Energy,Integrated Oil & Gas,2022,210.5,8.4,,,218.9,0.001724,126992,GHG Protocol (CN),SustainabilityReport_2023,FALSE,2050,,2024-01-01 to 2025-12-31
+GHG0019,Shandong Energy Group,—,China,Asia-Pacific,Energy,Coal,2022,210,,,,210,,,GHG Protocol (CN),ChinaETS_2023,FALSE,2060,State-owned coal conglomerate,2024-01-01 to 2025-12-31
+GHG0020,Sinopec Group (China Petroleum),600028.SS,China,Asia-Pacific,Energy,Integrated Oil & Gas,2022,128.3,6.1,,,134.4,0.001254,107200,GHG Protocol (CN),SustainabilityReport_2023,FALSE,2050,,2024-01-01 to 2025-12-31
+GHG0021,China Coal Energy,601898.SS,China,Asia-Pacific,Energy,Coal,2022,85,,,,85,,,GHG Protocol (CN),ChinaETS_2023,FALSE,2060,,2024-01-01 to 2025-12-31
+GHG0022,Yanzhou Coal Mining,600188.SS,China,Asia-Pacific,Energy,Coal,2022,72,,,,72,,,GHG Protocol (CN),ChinaETS_2023,FALSE,2060,,2024-01-01 to 2025-12-31
+GHG0023,Shaanxi Coal Industry,601225.SS,China,Asia-Pacific,Energy,Coal,2022,55,,,,55,,,GHG Protocol (CN),ChinaETS_2023,FALSE,2060,,2024-01-01 to 2025-12-31
+GHG0024,Shanxi Coking Coal,000983.SZ,China,Asia-Pacific,Energy,Coal,2022,45,,,,45,,,GHG Protocol (CN),ChinaETS_2023,FALSE,2060,,2024-01-01 to 2025-12-31
+GHG0025,Inner Mongolia Yitai Coal,3948.HK,China,Asia-Pacific,Energy,Coal,2022,38,,,,38,,,GHG Protocol (CN),ChinaETS_2023,FALSE,2060,,2024-01-01 to 2025-12-31
+GHG0026,CNOOC,600938.SS,China,Asia-Pacific,Energy,E&P,2022,29.8,2.3,,,32.1,0.000745,43085,GHG Protocol (CN),SustainabilityReport_2023,FALSE,2050,,2024-01-01 to 2025-12-31
+GHG0027,Hua Xia Bank,600015.SS,China,Asia-Pacific,Financials,Banking,2022,0.05,0.03,,,0.08,1.00E-05,7800,GHG Protocol (CN),SustainabilityReport_2023,FALSE,2060,Included for completeness,2024-01-01 to 2025-12-31
+GHG0028,China Baowu Steel Group,—,China,Asia-Pacific,Materials,Steel,2022,220,,,,220,,,GHG Protocol (CN),ChinaETS_2023,FALSE,2050,World's largest steel company,2024-01-01 to 2025-12-31
+GHG0029,HBIS Group,—,China,Asia-Pacific,Materials,Steel,2022,160,,,,160,,,GHG Protocol (CN),ChinaETS_2023,FALSE,2050,,2024-01-01 to 2025-12-31
+GHG0030,Ansteel Group,—,China,Asia-Pacific,Materials,Steel,2022,130,,,,130,,,GHG Protocol (CN),ChinaETS_2023,FALSE,2050,,2024-01-01 to 2025-12-31
+GHG0031,Jianlong Steel,—,China,Asia-Pacific,Materials,Steel,2022,90,,,,90,,,GHG Protocol (CN),ChinaETS_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0032,CNBM (China National Building Material),3323.HK,China,Asia-Pacific,Materials,Cement,2022,78.2,2.4,,,80.6,0.008191,9840,GHG Protocol (CN),ChinaETS_2023,FALSE,2060,,2024-01-01 to 2025-12-31
+GHG0033,China Hongqiao Group,1378.HK,China,Asia-Pacific,Materials,Aluminium,2022,65,,,,65,,,GHG Protocol (CN),ChinaETS_2023,FALSE,,World's largest aluminium producer,2024-01-01 to 2025-12-31
+GHG0034,Anhui Conch Cement,600585.SS,China,Asia-Pacific,Materials,Cement,2022,64.8,2.1,,,66.9,0.005955,11235,GHG Protocol (CN),ChinaETS_2023/SustainabilityReport_2023,FALSE,2060,,2024-01-01 to 2025-12-31
+GHG0035,Aluminum Corp of China (Chalco),2600.HK,China,Asia-Pacific,Materials,Aluminium,2022,40.3,18.4,,,58.7,0.015005,3912,GHG Protocol (CN),SustainabilityReport_2023,FALSE,2060,,2024-01-01 to 2025-12-31
+GHG0036,China Minmetals,—,China,Asia-Pacific,Materials,Mining,2022,22.4,,,,22.4,,,GHG Protocol (CN),SustainabilityReport_2023,FALSE,2060,,2024-01-01 to 2025-12-31
+GHG0037,Yunnan Aluminium,000807.SZ,China,Asia-Pacific,Materials,Aluminium,2022,18,,,,18,,,GHG Protocol (CN),ChinaETS_2023,FALSE,,Hydropower-based — lower intensity,2024-01-01 to 2025-12-31
+GHG0038,Zijin Mining,601899.SS,China,Asia-Pacific,Materials,Mining,2022,5.2,2.1,,,7.3,0.002218,3291,GHG Protocol (CN),CDP_2023/SustainabilityReport_2023,FALSE,2060,,2024-01-01 to 2025-12-31
+GHG0039,Air China,601111.SS,China,Asia-Pacific,Transportation,Airlines,2022,22.3,0.2,0.1,,22.5,0.001941,11592,GHG Protocol (CN),CDP_2023/SustainabilityReport_2023,FALSE,2060,,2024-01-01 to 2025-12-31
+GHG0040,China Eastern Airlines,600115.SS,China,Asia-Pacific,Transportation,Airlines,2022,20.1,0.2,0.1,,20.3,0.002148,9451,GHG Protocol (CN),CDP_2023/SustainabilityReport_2023,FALSE,2060,,2024-01-01 to 2025-12-31
+GHG0041,COSCO Shipping,601919.SS,China,Asia-Pacific,Transportation,Shipping,2022,19.4,0.4,,,19.8,0.000773,25600,GHG Protocol (CN),SustainabilityReport_2023,FALSE,2060,,2024-01-01 to 2025-12-31
+GHG0042,China Southern Airlines,600029.SS,China,Asia-Pacific,Transportation,Airlines,2022,18.6,0.2,0.1,,18.8,0.001469,12802,GHG Protocol (CN),CDP_2023/SustainabilityReport_2023,FALSE,2060,,2024-01-01 to 2025-12-31
+GHG0043,China Huaneng Group,—,China,Asia-Pacific,Utilities,Electric Power,2022,400,,,,400,,,GHG Protocol (CN),CAIT_2023/StatisticalRelease,FALSE,2060,State-owned; estimate from China ETS,2024-01-01 to 2025-12-31
+GHG0044,China Datang Corporation,—,China,Asia-Pacific,Utilities,Electric Power,2022,200,,,,200,,,GHG Protocol (CN),CAIT_2023/StatisticalRelease,FALSE,2060,State-owned; estimate,2024-01-01 to 2025-12-31
+GHG0045,China Huadian Corporation,—,China,Asia-Pacific,Utilities,Electric Power,2022,190,,,,190,,,GHG Protocol (CN),CAIT_2023/StatisticalRelease,FALSE,2060,State-owned; estimate,2024-01-01 to 2025-12-31
+GHG0046,State Power Investment Corp (SPIC),—,China,Asia-Pacific,Utilities,Electric Power,2022,160,,,,160,,,GHG Protocol (CN),CAIT_2023/StatisticalRelease,FALSE,2060,State-owned; estimate,2024-01-01 to 2025-12-31
+GHG0047,China Guodian (GD Power),600795.SS,China,Asia-Pacific,Utilities,Electric Power,2022,155,,,,155,,,GHG Protocol (CN),ChinaETS_2023,FALSE,2060,,2024-01-01 to 2025-12-31
+GHG0048,Huaneng Power International,600011.SS,China,Asia-Pacific,Utilities,Electric Power,2022,120,,,,120,,,GHG Protocol (CN),ChinaETS_2023,FALSE,2060,Listed subsidiary of China Huaneng,2024-01-01 to 2025-12-31
+GHG0049,GD Power Development,600795.SS,China,Asia-Pacific,Utilities,Electric Power,2022,90,,,,90,,,GHG Protocol (CN),ChinaETS_2023,FALSE,2060,CGN subsidiary,2024-01-01 to 2025-12-31
+GHG0050,China Resources Power,836.HK,China,Asia-Pacific,Utilities,Electric Power,2022,85,,,,85,,,GHG Protocol (CN),ChinaETS_2023,FALSE,2060,,2024-01-01 to 2025-12-31
+GHG0051,Inner Mongolia Power,—,China,Asia-Pacific,Utilities,Electric Power,2022,75,,,,75,,,GHG Protocol (CN),ChinaETS_2023,FALSE,,Regional grid company,2024-01-01 to 2025-12-31
+GHG0052,Cathay Pacific,0293.HK,Hong Kong,Asia-Pacific,Transportation,Airlines,2022,9.2,0.1,0.1,,9.3,0.001575,5906,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0053,ONGC,ONGC.NS,India,Asia-Pacific,Energy,E&P,2022,34.8,1.4,,,36.2,0.001651,21928,GHG Protocol (IN),SustainabilityReport_2023,FALSE,2038,,2024-01-01 to 2025-12-31
+GHG0054,Indian Oil Corporation,IOC.NS,India,Asia-Pacific,Energy,Refining,2022,20.4,2.1,,,22.5,0.000191,118087,GHG Protocol (IN),SustainabilityReport_2023,FALSE,2046,,2024-01-01 to 2025-12-31
+GHG0055,Reliance Industries,RELIANCE.NS,India,Asia-Pacific,Energy,Diversified Energy,2022,14.7,2.8,,,17.5,0.000179,98000,GHG Protocol,CDP_2023/SustainabilityReport_2023,FALSE,2035,,2024-01-01 to 2025-12-31
+GHG0056,ONGC Videsh,—,India,Asia-Pacific,Energy,E&P,2022,8.2,0.6,,,8.8,0.002588,3400,GHG Protocol (IN),SustainabilityReport_2023,FALSE,2038,Overseas arm of ONGC,2024-01-01 to 2025-12-31
+GHG0057,Oil India Limited,OIL.NS,India,Asia-Pacific,Energy,E&P,2022,3.8,0.4,,,4.2,0.001346,3120,GHG Protocol (IN),SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0058,Tata Consultancy Services,TCS.NS,India,Asia-Pacific,Information Technology,IT Services,2022,0.12,0.18,0.08,,0.3,1.20E-05,25701,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0059,Wipro,WIT,India,Asia-Pacific,Information Technology,IT Services,2022,0.08,0.09,,,0.17,1.60E-05,10421,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0060,Infosys,INFY,India,Asia-Pacific,Information Technology,IT Services,2022,0.05,0.07,0.03,,0.12,7.00E-06,16311,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,Carbon neutral since 2020,2024-01-01 to 2025-12-31
+GHG0061,Tata Steel India,TATASTEEL.NS,India,Asia-Pacific,Materials,Steel,2022,30.2,3.8,,,34,0.001539,22087,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2045,,2024-01-01 to 2025-12-31
+GHG0062,JSW Steel,JSWSTEEL.NS,India,Asia-Pacific,Materials,Steel,2022,27.8,2.9,,,30.7,0.002721,11284,GHG Protocol,CDP_2023/SustainabilityReport_2023,FALSE,2050,,2024-01-01 to 2025-12-31
+GHG0063,Hindalco Industries,HINDALCO.NS,India,Asia-Pacific,Materials,Aluminium,2022,19.4,5.1,,,24.5,0.003218,7614,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0064,Vedanta,VEDL.NS,India,Asia-Pacific,Materials,Mining,2022,18.6,4.3,,,22.9,0.001571,14578,GHG Protocol,SustainabilityReport_2023,FALSE,2050,,2024-01-01 to 2025-12-31
+GHG0065,InterGlobe Aviation (IndiGo),INDIGO.NS,India,Asia-Pacific,Transportation,Airlines,2022,5.6,0.1,0,,5.7,0.001093,5213,GHG Protocol,SustainabilityReport_2023,FALSE,2050,,2024-01-01 to 2025-12-31
+GHG0066,IndiGo (InterGlobe),INDIGO.NS,India,Asia-Pacific,Transportation,Airlines,2022,5.6,0.1,0,,5.7,0.001093,5213,GHG Protocol,SustainabilityReport_2023,FALSE,2050,,2024-01-01 to 2025-12-31
+GHG0067,NTPC,NTPC.NS,India,Asia-Pacific,Utilities,Electric Power,2022,200.3,1.2,,,201.5,0.010495,19200,GHG Protocol (IN),SustainabilityReport_2023,FALSE,2070,India's largest power utility — mostly coal,2024-01-01 to 2025-12-31
+GHG0068,NTPC Renewables,—,India,Asia-Pacific,Utilities,Renewables,2022,0.4,0.1,,,0.5,,,GHG Protocol (IN),SustainabilityReport_2023,FALSE,2070,Subsidiary of NTPC,2024-01-01 to 2025-12-31
+GHG0069,Pertamina,—,Indonesia,Asia-Pacific,Energy,Integrated Oil & Gas,2022,38,2.8,,,40.8,0.000618,66000,GHG Protocol (ID),SustainabilityReport_2023,FALSE,2060,State-owned Indonesia NOC,2024-01-01 to 2025-12-31
+GHG0070,Adaro Energy,ADRO.JK,Indonesia,Asia-Pacific,Energy,Coal Mining,2022,7.4,0.6,,,8,0.001356,5900,GHG Protocol,CDP_2023/SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0071,Indika Energy,INDY.JK,Indonesia,Asia-Pacific,Energy,Coal Mining,2022,4.8,0.4,,,5.2,0.002476,2100,GHG Protocol,CDP_2023/SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0072,PLN (Indonesia),—,Indonesia,Asia-Pacific,Utilities,Electric Power,2022,150,,,,150,,,GHG Protocol (ID),StatisticalRelease_2023,FALSE,2060,State-owned; mostly coal,2024-01-01 to 2025-12-31
+GHG0073,NTT Group,9432.T,Japan,Asia-Pacific,Communication Services,Telecom,2022,0.6,2.4,,,3,0.00023,13032,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,High Scope 2 from data centres,2024-01-01 to 2025-12-31
+GHG0074,SoftBank Corp,9434.T,Japan,Asia-Pacific,Communication Services,Telecom,2022,0.2,1.1,,,1.3,0.000222,5858,GHG Protocol,SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0075,Toyota Motor,7203.T,Japan,Asia-Pacific,Consumer Discretionary,Automotive,2022,7.5,4.8,4.2,,12.3,4.50E-05,274491,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0076,Honda Motor,7267.T,Japan,Asia-Pacific,Consumer Discretionary,Automotive,2022,3.5,2.1,,,5.6,3.90E-05,141891,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0077,Bridgestone,5108.T,Japan,Asia-Pacific,Consumer Discretionary,Tyre & Rubber,2022,3.2,1.8,,,5,0.001512,3306,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0078,Nissan Motor,7201.T,Japan,Asia-Pacific,Consumer Discretionary,Automotive,2022,2.2,1.6,,,3.8,4.30E-05,87592,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0079,Mitsubishi Motors,7211.T,Japan,Asia-Pacific,Consumer Discretionary,Automotive,2022,1.1,0.8,,,1.9,7.60E-05,24851,GHG Protocol,SustainabilityReport_2023,FALSE,2050,,2024-01-01 to 2025-12-31
+GHG0080,Subaru Corporation,7270.T,Japan,Asia-Pacific,Consumer Discretionary,Automotive,2022,0.9,0.7,,,1.6,6.00E-05,26651,GHG Protocol,SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0081,Michelin (Japan ops),—,Japan,Asia-Pacific,Consumer Discretionary,Tyre & Rubber,2022,0.4,0.2,,,0.6,,,GHG Protocol,SustainabilityReport_2023,FALSE,,Japanese manufacturing,2024-01-01 to 2025-12-31
+GHG0082,ENEOS Holdings,5020.T,Japan,Asia-Pacific,Energy,Refining,2022,21.4,1.8,,,23.2,0.00166,13980,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0083,Idemitsu Kosan,5019.T,Japan,Asia-Pacific,Energy,Refining,2022,15.6,1.2,,,16.8,0.002331,7208,GHG Protocol,SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0084,Nippon Oil (JXTG/ENEOS part),5020.T,Japan,Asia-Pacific,Energy,Refining,2022,8.4,0.9,,,9.3,,,GHG Protocol,JapanMOE_2023,FALSE,,Reported as part of ENEOS Holdings,2024-01-01 to 2025-12-31
+GHG0085,Kyowa Kirin,4151.T,Japan,Asia-Pacific,Health Care,Pharmaceuticals,2022,0.3,0.2,,,0.5,0.000233,2146,GHG Protocol,SustainabilityReport_2023,FALSE,2030,,2024-01-01 to 2025-12-31
+GHG0086,Mitsubishi Heavy Industries,7011.T,Japan,Asia-Pacific,Industrials,Heavy Engineering,2022,1.2,0.6,,,1.8,0.000476,3783,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0087,Kawasaki Heavy Industries,7012.T,Japan,Asia-Pacific,Industrials,Heavy Machinery,2022,0.9,0.5,,,1.4,0.000774,1809,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0088,Hitachi,6501.T,Japan,Asia-Pacific,Industrials,Diversified Industrial,2022,0.9,1.2,,,2.1,0.000241,8718,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0089,IHI Corporation,7013.T,Japan,Asia-Pacific,Industrials,Heavy Engineering,2022,0.8,0.4,,,1.2,0.000789,1520,GHG Protocol,SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0090,Daikin Industries,6367.T,Japan,Asia-Pacific,Industrials,HVAC,2022,0.8,0.9,,,1.7,0.000508,3348,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0091,Panasonic,6752.T,Japan,Asia-Pacific,Information Technology,Electronics,2022,1.4,1.8,,,3.2,0.00046,6952,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0092,Sony Group,6758.T,Japan,Asia-Pacific,Information Technology,Electronics,2022,0.7,1.1,,,1.8,0.000199,9059,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0093,Nippon Steel,5401.T,Japan,Asia-Pacific,Materials,Steel,2022,79.8,3.2,,,83,0.010323,8040,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0094,JFE Steel,5411.T,Japan,Asia-Pacific,Materials,Steel,2022,54.9,2.4,,,57.3,0.013969,4102,GHG Protocol,JapanMOE_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0095,Kobe Steel,5406.T,Japan,Asia-Pacific,Materials,Steel,2022,17.8,1.1,,,18.9,0.00922,2050,GHG Protocol,JapanMOE_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0096,Mitsubishi Chemical,4188.T,Japan,Asia-Pacific,Materials,Chemicals,2022,9.2,2.4,,,11.6,0.002362,4912,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0097,Sumitomo Chemical,4005.T,Japan,Asia-Pacific,Materials,Chemicals,2022,8.4,2.1,,,10.5,0.002113,4969,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0098,Mitsui Chemicals,4183.T,Japan,Asia-Pacific,Materials,Chemicals,2022,7.2,2.3,,,9.5,0.005733,1657,GHG Protocol,CDP_2023/JapanMOE_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0099,Oji Holdings,3861.T,Japan,Asia-Pacific,Materials,Paper,2022,6.4,1.1,,,7.5,0.004488,1671,GHG Protocol,JapanMOE_2023/CDP_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0100,Asahi Kasei,3407.T,Japan,Asia-Pacific,Materials,Chemicals,2022,6.2,2.4,,,8.6,0.003091,2782,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0101,Ube Industries,4208.T,Japan,Asia-Pacific,Materials,Chemicals & Cement,2022,5.8,1.4,,,7.2,0.004675,1540,GHG Protocol,SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0102,Nippon Paper Industries,3863.T,Japan,Asia-Pacific,Materials,Paper,2022,5.8,0.9,,,6.7,0.004602,1456,GHG Protocol,JapanMOE_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0103,Shin-Etsu Chemical,4063.T,Japan,Asia-Pacific,Materials,Chemicals,2022,4.8,1.5,,,6.3,0.000898,7018,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0104,Toray Industries,3402.T,Japan,Asia-Pacific,Materials,Advanced Materials,2022,4.8,2.1,,,6.9,0.003003,2298,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0105,Sumitomo Metal Mining,5713.T,Japan,Asia-Pacific,Materials,Mining,2022,3.4,1.2,,,4.6,0.001429,3218,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0106,Tokuyama Corporation,4043.T,Japan,Asia-Pacific,Materials,Chemicals,2022,3.2,1.5,,,4.7,0.005032,934,GHG Protocol,JapanMOE_2023,FALSE,2050,,2024-01-01 to 2025-12-31
+GHG0107,Denka Company,4061.T,Japan,Asia-Pacific,Materials,Chemicals,2022,2.8,1.2,,,4,0.004914,814,GHG Protocol,JapanMOE_2023,FALSE,2050,,2024-01-01 to 2025-12-31
+GHG0108,JSR Corporation,4185.T,Japan,Asia-Pacific,Materials,Specialty Chemicals,2022,1.1,0.6,,,1.7,0.002291,742,GHG Protocol,SustainabilityReport_2023,FALSE,2050,,2024-01-01 to 2025-12-31
+GHG0109,ANA Holdings,9202.T,Japan,Asia-Pacific,Transportation,Airlines,2022,9.8,0.1,0.1,,9.9,0.000683,14501,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0110,Japan Airlines (JAL),9201.T,Japan,Asia-Pacific,Transportation,Airlines,2022,8.9,0.1,0.1,,9,0.000695,12956,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0111,Chubu Electric Power,9502.T,Japan,Asia-Pacific,Utilities,Electric Power,2022,41.8,0.4,,,42.2,0.006017,7014,GHG Protocol,JapanMOE_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0112,Tokyo Electric Power (TEPCO),9501.T,Japan,Asia-Pacific,Utilities,Electric Power,2022,38.2,0.5,,,38.7,0.005562,6958,GHG Protocol,JapanMOE_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0113,Tohoku Electric Power,9506.T,Japan,Asia-Pacific,Utilities,Electric Power,2022,21.9,0.3,,,22.2,0.005176,4289,GHG Protocol,JapanMOE_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0114,Kansai Electric Power,9503.T,Japan,Asia-Pacific,Utilities,Electric Power,2022,20.4,0.3,,,20.7,0.003955,5234,GHG Protocol,JapanMOE_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0115,Chugoku Electric Power,9504.T,Japan,Asia-Pacific,Utilities,Electric Power,2022,18.1,0.2,,,18.3,0.006557,2791,GHG Protocol,JapanMOE_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0116,Kyushu Electric Power,9508.T,Japan,Asia-Pacific,Utilities,Electric Power,2022,16.5,0.3,,,16.8,0.004357,3856,GHG Protocol,JapanMOE_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0117,Hokuriku Electric Power,9505.T,Japan,Asia-Pacific,Utilities,Electric Power,2022,9.8,0.2,,,10,0.005435,1840,GHG Protocol,JapanMOE_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0118,Shikoku Electric Power,9507.T,Japan,Asia-Pacific,Utilities,Electric Power,2022,7.4,0.1,,,7.5,0.004934,1520,GHG Protocol,JapanMOE_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0119,Tokyo Gas,9531.T,Japan,Asia-Pacific,Utilities,Gas Distribution,2022,4.2,0.6,,,4.8,0.000614,7820,GHG Protocol,CDP_2023/JapanMOE_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0120,Tokyo Gas Co.,9531.T,Japan,Asia-Pacific,Utilities,Gas Distribution,2022,4.2,0.6,,,4.8,0.000614,7820,GHG Protocol,CDP_2023/JapanMOE_2023,TRUE,2050,Duplicate entry — see Batch 2,2024-01-01 to 2025-12-31
+GHG0121,Osaka Gas (Daigas),9532.T,Japan,Asia-Pacific,Utilities,Gas Distribution,2022,3.8,0.5,,,4.3,0.000668,6440,GHG Protocol,CDP_2023/JapanMOE_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0122,Toho Gas,9533.T,Japan,Asia-Pacific,Utilities,Gas Distribution,2022,1.8,0.3,,,2.1,0.000705,2980,GHG Protocol,JapanMOE_2023,FALSE,2050,,2024-01-01 to 2025-12-31
+GHG0123,Tenaga Nasional (TNB),TNB,Malaysia,Asia-Pacific,Utilities,Electric Power,2022,30.4,0.4,,,30.8,0.00275,11200,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0124,Air New Zealand,AIR.NZ,New Zealand,Asia-Pacific,Transportation,Airlines,2022,2.9,0,0,,2.9,0.001251,2319,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0125,Wilmar International,F34.SI,Singapore,Asia-Pacific,Consumer Staples,Agri-Food,2022,4.8,1.2,,,6,8.20E-05,73000,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0126,First Resources,FR.SI,Singapore,Asia-Pacific,Consumer Staples,Palm Oil,2022,1.2,0.4,,,1.6,0.002576,621,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,Palm oil — deforestation risk,2024-01-01 to 2025-12-31
+GHG0127,Keppel Corporation,BN4.SI,Singapore,Asia-Pacific,Industrials,Conglomerate,2022,1.2,0.8,,,2,0.000233,8600,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0128,Singapore Airlines,C6L.SI,Singapore,Asia-Pacific,Transportation,Airlines,2022,8.4,0.1,0.1,,8.5,0.00054,15750,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0129,SK Telecom,017670.KS,South Korea,Asia-Pacific,Communication Services,Telecom,2022,0.1,0.3,,,0.4,2.30E-05,17104,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0130,Hyundai Motor,005380.KS,South Korea,Asia-Pacific,Consumer Discretionary,Automotive,2022,3.1,2.4,,,5.5,5.30E-05,103969,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2045,,2024-01-01 to 2025-12-31
+GHG0131,Kia,000270.KS,South Korea,Asia-Pacific,Consumer Discretionary,Automotive,2022,1.8,1.6,,,3.4,4.60E-05,73124,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2045,,2024-01-01 to 2025-12-31
+GHG0132,LG Electronics,066570.KS,South Korea,Asia-Pacific,Consumer Discretionary,Electronics,2022,1.8,1.4,,,3.2,5.60E-05,56823,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0133,SK Innovation (SK Energy),096770.KS,South Korea,Asia-Pacific,Energy,Refining,2022,12.8,1.4,,,14.2,0.002283,6219,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0134,Samsung Electronics,005930.KS,South Korea,Asia-Pacific,Information Technology,Semiconductors,2022,8.1,12.7,0.9,,20.8,8.90E-05,234130,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0135,SK Hynix,000660.KS,South Korea,Asia-Pacific,Information Technology,Semiconductors,2022,3.1,5.8,0.6,,8.9,0.00031,28671,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0136,POSCO Holdings,005490.KS,South Korea,Asia-Pacific,Materials,Steel,2022,75.4,3.1,,,78.5,0.011787,6660,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0137,Hyundai Steel,004020.KS,South Korea,Asia-Pacific,Materials,Steel,2022,22.4,1.5,,,23.9,0.009843,2428,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0138,LG Chem,051910.KS,South Korea,Asia-Pacific,Materials,Chemicals,2022,8.4,3.2,,,11.6,0.001212,9571,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0139,Lotte Chemical,011170.KS,South Korea,Asia-Pacific,Materials,Chemicals,2022,5.6,2.1,,,7.7,0.001595,4827,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0140,Hanwha Solutions,009830.KS,South Korea,Asia-Pacific,Materials,Chemicals,2022,4.2,1.8,,,6,0.001587,3781,GHG Protocol,SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0141,Korean Air,003490.KS,South Korea,Asia-Pacific,Transportation,Airlines,2022,10.3,0.1,0.1,,10.4,0.001497,6945,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0142,Asiana Airlines,020560.KS,South Korea,Asia-Pacific,Transportation,Airlines,2022,5.4,0.1,0,,5.5,0.001372,4008,GHG Protocol,SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0143,KEPCO,015760.KS,South Korea,Asia-Pacific,Utilities,Electric Power,2022,100.5,1.2,,,101.7,0.017299,5879,GHG Protocol,KoreaGHGInv_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0144,Korea Western Power,—,South Korea,Asia-Pacific,Utilities,Electric Power,2022,28.6,0.4,,,29,,,GHG Protocol,KoreaGHGInv_2023,TRUE,,Subsidiary of KEPCO,2024-01-01 to 2025-12-31
+GHG0145,Korea South-East Power (KOSEP),—,South Korea,Asia-Pacific,Utilities,Electric Power,2022,26.4,0.3,,,26.7,,,GHG Protocol,KoreaGHGInv_2023,TRUE,2050,KEPCO subsidiary,2024-01-01 to 2025-12-31
+GHG0146,Foxconn (Hon Hai),2317.TW,Taiwan,Asia-Pacific,Information Technology,Electronics Manufacturing,2022,2.1,5.4,,,7.5,3.60E-05,208820,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0147,TSMC,2330.TW,Taiwan,Asia-Pacific,Information Technology,Semiconductors,2022,1.8,9.2,0.8,,11,0.000158,69673,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,High Scope 2 from semiconductor fabs,2024-01-01 to 2025-12-31
+GHG0148,Formosa Plastics Group,1301.TW,Taiwan,Asia-Pacific,Materials,Chemicals,2022,22.1,4.2,,,26.3,0.002955,8900,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0149,China Steel Corp,2002.TW,Taiwan,Asia-Pacific,Materials,Steel,2022,14.5,1.3,,,15.8,0.003292,4800,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0150,Evergreen Marine,2603.TW,Taiwan,Asia-Pacific,Transportation,Shipping,2022,8.9,0.2,,,9.1,0.000466,19530,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0151,PTT Public Company,PTT.BK,Thailand,Asia-Pacific,Energy,Integrated Oil & Gas,2022,12.4,1.3,,,13.7,0.000163,83800,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0152,Banpu PCL,BANPU.BK,Thailand,Asia-Pacific,Energy,Coal Mining,2022,8.9,0.7,,,9.6,0.003429,2800,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0153,PTT Global Chemical,PTTGC.BK,Thailand,Asia-Pacific,Materials,Chemicals,2022,6.8,1.8,,,8.6,0.000573,15000,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0154,Electricity Generating Authority of Thailand (EGAT),—,Thailand,Asia-Pacific,Utilities,Electric Power,2022,55,0.5,,,55.5,,,GHG Protocol (TH),SustainabilityReport_2023,FALSE,2065,State-owned,2024-01-01 to 2025-12-31
+GHG0155,Glow Energy,—,Thailand,Asia-Pacific,Utilities,Electric Power,2022,9.4,0.2,,,9.6,,,GHG Protocol,SustainabilityReport_2023,FALSE,,Acquired by Gulf Energy,2024-01-01 to 2025-12-31
+GHG0156,Vietnam Electricity (EVN),—,Vietnam,Asia-Pacific,Utilities,Electric Power,2022,60,,,,60,,,GHG Protocol (VN),StatisticalRelease_2023,FALSE,2050,State-owned; rapid coal expansion,2024-01-01 to 2025-12-31
+GHG0157,OMV Group,OMV,Austria,Europe,Energy,Integrated Oil & Gas,2022,9.8,0.8,,,10.6,0.00017,62330,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0158,Voestalpine,VOE,Austria,Europe,Materials,Steel,2022,11.2,0.9,,,12.1,0.001966,6154,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0159,Verbund,VER,Austria,Europe,Utilities,Hydroelectric,2022,0.5,0.1,,,0.6,0.000102,5876,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,Mostly hydro — very low Scope 1,2024-01-01 to 2025-12-31
+GHG0160,Solvay,SOLB,Belgium,Europe,Materials,Specialty Chemicals,2022,4.2,1.4,,,5.6,0.000411,13640,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0161,Umicore,UMI,Belgium,Europe,Materials,Battery Recycling,2022,1.2,0.8,,,2,0.000489,4093,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0162,CEZ Group,CEZ,Czech Republic,Europe,Utilities,Electric Power,2022,24.1,0.4,,,24.5,0.003104,7893,EU_ETS,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0163,Novo Nordisk,NOVO-B,Denmark,Europe,Health Care,Pharmaceuticals,2022,0.1,0.1,,,0.2,7.00E-06,26996,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0164,Maersk (A.P. Moller-Maersk),MAERSK-B,Denmark,Europe,Transportation,Shipping,2022,34.5,0.4,,,34.9,0.000428,81529,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,World's largest container line,2024-01-01 to 2025-12-31
+GHG0165,Orsted,ORSTED,Denmark,Europe,Utilities,Offshore Wind,2022,1.8,0.1,,,1.9,0.000157,12117,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2025,Transitioning from coal to offshore wind,2024-01-01 to 2025-12-31
+GHG0166,Dong Energy/Orsted Heat,—,Denmark,Europe,Utilities,District Energy,2022,0.8,0.1,,,0.9,,,EU_ETS,SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0167,Neste,NESTE,Finland,Europe,Energy,Renewable Fuels,2022,3.4,0.5,,,3.9,0.000152,25715,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0168,Outokumpu,OUT1V,Finland,Europe,Materials,Stainless Steel,2022,4.1,2.3,,,6.4,0.000707,9053,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0169,Stora Enso,STERV,Finland,Europe,Materials,Forestry & Paper,2022,3.1,0.6,,,3.7,0.000317,11683,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0170,UPM-Kymmene,UPM,Finland,Europe,Materials,Forestry & Paper,2022,2.8,0.5,,,3.3,0.000274,12036,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0171,Metsä Group,—,Finland,Europe,Materials,Forestry & Paper,2022,1.4,0.3,,,1.7,,,EU_ETS,SustainabilityReport_2023,TRUE,2030,Privately held,2024-01-01 to 2025-12-31
+GHG0172,Fortum,FORTUM,Finland,Europe,Utilities,Electric Power,2022,4.2,0.2,,,4.4,0.000182,24185,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0173,Orange,ORA,France,Europe,Communication Services,Telecom,2022,0.4,0.7,0.2,,1.1,2.50E-05,43471,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0174,Michelin,ML,France,Europe,Consumer Discretionary,Tyre & Rubber,2022,1.9,1.1,,,3,0.000105,28588,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0175,Renault,RNO,France,Europe,Consumer Discretionary,Automotive,2022,1.8,0.9,0.7,,2.7,5.80E-05,46393,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0176,LVMH,MC,France,Europe,Consumer Discretionary,Luxury,2022,0.3,0.2,,,0.5,6.00E-06,79184,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0177,Danone,BN,France,Europe,Consumer Staples,Food & Dairy,2022,1.4,0.6,0.4,,2,7.20E-05,27661,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0178,L'Oreal,OR,France,Europe,Consumer Staples,Personal Care,2022,0.2,0.1,0.1,,0.3,8.00E-06,38260,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2025,Scope 1+2 very low; net zero 2025 target,2024-01-01 to 2025-12-31
+GHG0179,TotalEnergies,TTE,France,Europe,Energy,Integrated Oil & Gas,2022,43.2,3.8,,377,47,0.000178,263310,GHG Protocol,CDP_2023/AnnualReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0180,BNP Paribas,BNP,France,Europe,Financials,Banking,2022,0.12,0.07,,,0.19,4.00E-06,49253,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0181,Sanofi,SAN,France,Europe,Health Care,Pharmaceuticals,2022,0.6,0.3,,,0.9,2.10E-05,42997,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0182,Airbus,AIR,France,Europe,Industrials,Aerospace & Defense,2022,1.1,0.5,,,1.6,2.70E-05,58763,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0183,Safran,SAF,France,Europe,Industrials,Aerospace Engines,2022,0.7,0.3,,,1,5.30E-05,19002,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0184,Thales,HO,France,Europe,Industrials,Defense Electronics,2022,0.4,0.2,,,0.6,3.40E-05,17590,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0185,Dassault Aviation,AM,France,Europe,Industrials,Aerospace,2022,0.2,0.1,,,0.3,4.10E-05,7256,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0186,Saint-Gobain,SGO,France,Europe,Materials,Building Materials,2022,14.2,2.1,,,16.3,0.000318,51204,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0187,Vicat,VCT,France,Europe,Materials,Cement,2022,13.8,0.5,,,14.3,0.003777,3786,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0188,Valourec,VK,France,Europe,Materials,Steel Tubes,2022,2.8,0.9,,,3.7,0.002073,1785,EU_ETS/GHG Protocol,SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0189,CMA CGM,—,France,Europe,Transportation,Shipping,2022,26,,,,26,,,GHG Protocol,SustainabilityReport_2023,FALSE,2050,Privately held,2024-01-01 to 2025-12-31
+GHG0190,Air France-KLM,AF,France,Europe,Transportation,Airlines,2022,11.9,0.1,0.1,,12,0.000455,26370,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0191,Engie,ENGI,France,Europe,Utilities,Gas & Power,2022,29.7,1.2,,,30.9,0.000329,93860,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2045,,2024-01-01 to 2025-12-31
+GHG0192,EDF,EDF.PA,France,Europe,Utilities,Nuclear Power,2022,18.1,0.5,,,18.6,0.00013,143383,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,Low Scope 1 relative to size — mostly nuclear,2024-01-01 to 2025-12-31
+GHG0193,Electricite de Strasbourg,—,France,Europe,Utilities,Electric Power,2022,1.2,0.1,,,1.3,0.001857,700,EU_ETS,AnnualReport_2023,FALSE,,EDF subsidiary,2024-01-01 to 2025-12-31
+GHG0194,ENGIE Renewables (subsidiary),—,France,Europe,Utilities,Renewables,2022,0.3,0.1,,,0.4,,,EU_ETS,SustainabilityReport_2023,FALSE,2045,,2024-01-01 to 2025-12-31
+GHG0195,Deutsche Telekom,DTE,Germany,Europe,Communication Services,Telecom,2022,0.5,0.8,0.3,,1.3,1.10E-05,114390,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0196,Volkswagen Group,VOW3,Germany,Europe,Consumer Discretionary,Automotive,2022,5.2,2.8,2.1,420,8,2.70E-05,293485,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0197,BMW Group,BMW,Germany,Europe,Consumer Discretionary,Automotive,2022,2.1,1.5,1.2,182,3.6,2.50E-05,142612,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0198,Mercedes-Benz Group,MBG,Germany,Europe,Consumer Discretionary,Automotive,2022,2,1.6,1.1,221,3.6,2.40E-05,153166,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2039,,2024-01-01 to 2025-12-31
+GHG0199,Bayer,BAYN,Germany,Europe,Health Care,Pharmaceuticals,2022,1.4,0.7,,,2.1,4.10E-05,50739,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0200,Fresenius Medical Care,FME,Germany,Europe,Health Care,Dialysis,2022,0.7,0.5,,,1.2,6.20E-05,19375,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0201,Siemens,SIE,Germany,Europe,Industrials,Diversified Industrial,2022,0.7,0.4,0.3,,1.1,1.50E-05,71977,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0202,Rheinmetall,RHM,Germany,Europe,Industrials,Defense,2022,0.3,0.2,,,0.5,7.80E-05,6409,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0203,Thyssenkrupp Nucera,NCX,Germany,Europe,Industrials,Green Hydrogen,2022,0.1,0.1,,,0.2,0.000417,480,GHG Protocol,SustainabilityReport_2023,FALSE,,Electrolysis technology spinoff,2024-01-01 to 2025-12-31
+GHG0204,HeidelbergMaterials,HEIG,Germany,Europe,Materials,Cement,2022,90,1.2,,,91.2,0.004323,21095,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0205,BASF,BAS,Germany,Europe,Materials,Chemicals,2022,17.3,5.1,4.2,,22.4,0.000257,87327,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0206,ThyssenKrupp,TKA,Germany,Europe,Materials,Steel,2022,12.1,2.9,,,15,0.000365,41118,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0207,Salzgitter AG,SZG,Germany,Europe,Materials,Steel,2022,8.9,1.1,,,10,0.002123,4710,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2033,,2024-01-01 to 2025-12-31
+GHG0208,Covestro,1COV,Germany,Europe,Materials,Chemicals,2022,3.1,1.4,,,4.5,0.00025,17975,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0209,Evonik,EVK,Germany,Europe,Materials,Specialty Chemicals,2022,2.8,1.1,,,3.9,0.000261,14924,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0210,Wacker Chemie,WCH,Germany,Europe,Materials,Chemicals,2022,2.2,1.6,,,3.8,0.000463,8200,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0211,Lanxess,LXS,Germany,Europe,Materials,Specialty Chemicals,2022,2.1,0.9,,,3,0.000447,6718,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0212,Vonovia,VNA,Germany,Europe,Real Estate,Residential,2022,0.6,1.4,,,2,0.000416,4810,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2045,Germany's largest landlord,2024-01-01 to 2025-12-31
+GHG0213,Lufthansa Group,LHA,Germany,Europe,Transportation,Airlines,2022,15.2,0.1,0.1,,15.3,0.000467,32770,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0214,Hapag-Lloyd,HLAG,Germany,Europe,Transportation,Shipping,2022,12.8,0.2,,,13,0.000357,36434,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2045,,2024-01-01 to 2025-12-31
+GHG0215,RWE,RWE,Germany,Europe,Utilities,Electric Power,2022,97.8,0.8,,,98.6,0.002703,36476,EU_ETS,CDP_2023/AnnualReport_2023,TRUE,2040,One of largest EU ETS emitters,2024-01-01 to 2025-12-31
+GHG0216,EnBW,EBK,Germany,Europe,Utilities,Electric Power,2022,19.8,0.3,,,20.1,0.0003,67024,EU_ETS,SustainabilityReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0217,E.ON,EOAN,Germany,Europe,Utilities,Gas & Power,2022,6.9,0.4,,,7.3,5.20E-05,139804,EU_ETS,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0218,CRH,CRH,Ireland,Europe,Materials,Building Materials,2022,28.4,1.2,,,29.6,0.000904,32737,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0219,Smurfit Kappa,SKG,Ireland,Europe,Materials,Paper & Packaging,2022,3.8,1.2,,,5,0.00039,12823,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0220,Kingspan,KRX,Ireland,Europe,Materials,Building Products,2022,0.3,0.2,,,0.5,6.00E-05,8282,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0221,Ryanair,RYA,Ireland,Europe,Transportation,Airlines,2022,9.5,0,0,,9.5,0.000882,10775,EU_ETS/GHG Protocol,AnnualReport_2023,TRUE,2050,Lowest CO2/pax in industry (claims),2024-01-01 to 2025-12-31
+GHG0222,Eni,ENI,Italy,Europe,Energy,Integrated Oil & Gas,2022,27.6,2.2,,,29.8,0.000213,139664,EU_ETS/GHG Protocol,CDP_2023/AnnualReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0223,Leonardo,LDO,Italy,Europe,Industrials,Aerospace & Defense,2022,0.5,0.2,,,0.7,4.80E-05,14680,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0224,Enel,ENEL,Italy,Europe,Utilities,Electric Power,2022,25.1,0.6,,,25.7,0.000183,140306,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0225,Enel Green Power,—,Italy,Europe,Utilities,Renewables,2022,1.2,0.1,,,1.3,,,EU_ETS/GHG Protocol,SustainabilityReport_2023,TRUE,2040,Subsidiary of Enel,2024-01-01 to 2025-12-31
+GHG0226,ArcelorMittal,MT,Luxembourg,Europe,Materials,Steel,2022,163,6.3,,,169.3,0.00212,79843,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,World's largest steel company ex-China,2024-01-01 to 2025-12-31
+GHG0227,Aperam,APAM,Luxembourg,Europe,Materials,Stainless Steel,2022,2.4,0.9,,,3.3,0.000572,5768,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0228,Stellantis,STLA,Netherlands,Europe,Consumer Discretionary,Automotive,2022,3.7,2.2,1.8,,5.9,3.10E-05,189040,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2038,,2024-01-01 to 2025-12-31
+GHG0229,Louis Dreyfus,—,Netherlands,Europe,Consumer Staples,Agricultural Trading,2022,3.2,0.8,,,4,,,GHG Protocol,SustainabilityReport_2023,FALSE,,Privately held,2024-01-01 to 2025-12-31
+GHG0230,Heineken,HEIA,Netherlands,Europe,Consumer Staples,Beverages,2022,0.8,0.3,,,1.1,3.00E-05,36356,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0231,ASML,ASML,Netherlands,Europe,Information Technology,Semiconductors,2022,0.1,0.05,0.03,,0.15,7.00E-06,21173,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0232,AkzoNobel,AKZA,Netherlands,Europe,Materials,Paints & Coatings,2022,0.6,0.4,,,1,9.40E-05,10682,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0233,Equinor,EQNR,Norway,Europe,Energy,Integrated Oil & Gas,2022,11.1,0.4,,270,11.5,7.70E-05,149590,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0234,Aker BP,AKERBP,Norway,Europe,Energy,E&P,2022,2.8,0.2,,,3,0.000263,11390,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,Low-carbon North Sea ops,2024-01-01 to 2025-12-31
+GHG0235,Norsk Hydro,NHY,Norway,Europe,Materials,Aluminium,2022,9.8,1.2,,,11,0.000546,20130,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0236,Yara International,YAR,Norway,Europe,Materials,Fertilizers,2022,7.8,1.8,,,9.6,0.000495,19400,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0237,PKN Orlen,PKN,Poland,Europe,Energy,Refining,2022,18.4,1.9,,,20.3,0.000541,37502,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0238,PGE Group,PGE,Poland,Europe,Utilities,Electric Power,2022,56.2,0.6,,,56.8,0.005997,9472,EU_ETS,CDP_2023/SustainabilityReport_2023,TRUE,2050,Poland's largest power company,2024-01-01 to 2025-12-31
+GHG0239,GALP Energia,GALP,Portugal,Europe,Energy,Integrated Oil & Gas,2022,7.1,0.6,,,7.7,0.000351,21930,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0240,EDP (Energias de Portugal),EDP,Portugal,Europe,Utilities,Electric Power,2022,10.8,0.3,,,11.1,0.000582,19070,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0241,Gazprom,GAZP,Russia,Europe,Energy,Natural Gas,2021,710,8.2,,,718.2,0.005887,122000,GHG Protocol,AnnualReport_2022,FALSE,2050,2021 data; includes methane leakage; reporting disrupted,2024-01-01 to 2025-12-31
+GHG0242,Rosneft,ROSN,Russia,Europe,Energy,Integrated Oil & Gas,2021,68.5,5.1,,,73.6,0.000867,84900,GHG Protocol,AnnualReport_2022,FALSE,2050,2021 data; post-2022 reporting disrupted,2024-01-01 to 2025-12-31
+GHG0243,Surgutneftegas,SNGS,Russia,Europe,Energy,E&P,2021,32,1.2,,,33.2,,,GHG Protocol,AnnualReport_2022,FALSE,,2021 data; minimal post-2022 disclosure,2024-01-01 to 2025-12-31
+GHG0244,Novatek,NVTK,Russia,Europe,Energy,LNG,2021,18.5,0.8,,,19.3,,,GHG Protocol,AnnualReport_2022,FALSE,,2021 data,2024-01-01 to 2025-12-31
+GHG0245,NLMK Group,NLMK,Russia,Europe,Materials,Steel,2021,25.4,2.1,,,27.5,0.002311,11900,GHG Protocol,SustainabilityReport_2022,FALSE,,2021 data,2024-01-01 to 2025-12-31
+GHG0246,NLMK Group (add),NLMK,Russia,Europe,Materials,Steel,2021,22.8,1.9,,,24.7,,,GHG Protocol,AnnualReport_2022,FALSE,,Duplicate removed — see batch 2,2024-01-01 to 2025-12-31
+GHG0247,Severstal,CHMF,Russia,Europe,Materials,Steel,2021,18.2,1.8,,,20,0.002299,8700,GHG Protocol,SustainabilityReport_2022,FALSE,,2021 data,2024-01-01 to 2025-12-31
+GHG0248,Repsol,REP,Spain,Europe,Energy,Integrated Oil & Gas,2022,14.8,1.3,,,16.1,0.000201,80285,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0249,Acerinox,ACX,Spain,Europe,Materials,Stainless Steel,2022,3.8,1.4,,,5.2,0.000893,5826,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0250,Endesa,ELE,Spain,Europe,Utilities,Electric Power,2022,25.3,0.5,,,25.8,0.001041,24793,EU_ETS,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0251,Naturgy,NTGY,Spain,Europe,Utilities,Gas & Power,2022,12.4,0.4,,,12.8,0.000601,21300,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0252,Iberdrola,IBE,Spain,Europe,Utilities,Electric Power,2022,10.1,0.4,,,10.5,0.000259,40570,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0253,Red Electrica (REE),REE,Spain,Europe,Utilities,Transmission,2022,0.2,0.1,,,0.3,0.000144,2078,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,TSO — mostly network losses,2024-01-01 to 2025-12-31
+GHG0254,SKF,SKF-B,Sweden,Europe,Industrials,Bearings,2022,0.4,0.3,,,0.7,7.20E-05,9770,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0255,Sandvik,SAND,Sweden,Europe,Industrials,Mining Equipment,2022,0.4,0.3,,,0.7,6.00E-05,11760,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0256,Atlas Copco,ATCO-A,Sweden,Europe,Industrials,Compressors & Pumps,2022,0.3,0.2,,,0.5,3.50E-05,14169,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0257,SSAB,SSAB-A,Sweden,Europe,Materials,Steel,2022,7.4,0.9,,,8.3,0.002133,3891,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,HYBRIT fossil-free steel project,2024-01-01 to 2025-12-31
+GHG0258,Vattenfall,—,Sweden,Europe,Utilities,Electric Power,2022,12.1,0.3,,,12.4,0.000564,22000,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,State-owned,2024-01-01 to 2025-12-31
+GHG0259,Vattenfall Heat,—,Sweden,Europe,Utilities,District Heating,2022,3.4,0.1,,,3.5,,,EU_ETS,SustainabilityReport_2023,FALSE,2030,Vattenfall subsidiary,2024-01-01 to 2025-12-31
+GHG0260,Nestlé,NESN,Switzerland,Europe,Consumer Staples,Food & Beverage,2022,3,1.1,0.9,,4.1,4.30E-05,94424,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0261,Zurich Insurance,ZURN,Switzerland,Europe,Financials,Insurance,2022,0.1,0.03,,,0.13,2.00E-06,73842,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,Mainly financed emissions in portfolio,2024-01-01 to 2025-12-31
+GHG0262,Roche Holding,ROG,Switzerland,Europe,Health Care,Pharmaceuticals,2022,0.9,0.5,,,1.4,2.20E-05,63294,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0263,Novartis,NOVN,Switzerland,Europe,Health Care,Pharmaceuticals,2022,0.6,0.4,,,1,1.90E-05,51624,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2025,,2024-01-01 to 2025-12-31
+GHG0264,Lonza Group,LONN,Switzerland,Europe,Health Care,Contract Pharma,2022,0.3,0.2,,,0.5,8.00E-05,6274,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0265,ABB,ABBN,Switzerland,Europe,Industrials,Electrification,2022,0.5,0.3,,,0.8,2.70E-05,29447,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0266,Schindler Group,SCHN,Switzerland,Europe,Industrials,Elevators & Escalators,2022,0.2,0.2,,,0.4,3.70E-05,10874,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0267,Holcim (LafargeHolcim),HOLN,Switzerland,Europe,Materials,Cement,2022,133,1.4,,,134.4,0.005162,26038,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,World's largest cement producer,2024-01-01 to 2025-12-31
+GHG0268,Glencore,GLEN,Switzerland,Europe,Materials,Mining & Commodities,2022,40.2,4.1,,,44.3,0.000173,255984,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,Scope 1 incl. coal ops,2024-01-01 to 2025-12-31
+GHG0269,Schmolz+Bickenbach (Swiss Steel),—,Switzerland,Europe,Materials,Steel,2022,1.9,0.8,,,2.7,,,EU_ETS/GHG Protocol,SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0270,Amcor,AMCR,Switzerland,Europe,Materials,Packaging,2022,1.8,1.2,,,3,0.000206,14544,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2025,,2024-01-01 to 2025-12-31
+GHG0271,MSC (Mediterranean Shipping),—,Switzerland,Europe,Transportation,Shipping,2022,29,,,,29,,,GHG Protocol,SustainabilityReport_2023,FALSE,2050,Privately held,2024-01-01 to 2025-12-31
+GHG0272,Axpo,—,Switzerland,Europe,Utilities,Electric Power,2022,1.1,0.1,,,1.2,,,GHG Protocol,SustainabilityReport_2023,FALSE,2040,State-owned; nuclear + hydro,2024-01-01 to 2025-12-31
+GHG0273,Turkish Airlines,THYAO.IS,Turkey,Europe,Transportation,Airlines,2022,11.2,0.1,0.1,,11.3,0.000812,13913,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0274,Vodafone,VOD,United Kingdom,Europe,Communication Services,Telecom,2022,0.3,0.6,0.2,,0.9,2.00E-05,45580,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0275,Associated British Foods,ABF,United Kingdom,Europe,Consumer Staples,Food & Retail,2022,2.1,0.9,,,3,0.000148,20279,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0276,Unilever,ULVR,United Kingdom,Europe,Consumer Staples,Personal Care,2022,1.2,0.5,0.3,,1.7,2.80E-05,60073,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2039,,2024-01-01 to 2025-12-31
+GHG0277,Diageo,DGE.L,United Kingdom,Europe,Consumer Staples,Beverages,2022,0.8,0.2,,,1,4.70E-05,21302,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0278,Shell,SHEL,United Kingdom,Europe,Energy,Integrated Oil & Gas,2022,60.3,4.4,,600,64.7,0.000168,386201,GHG Protocol,CDP_2023/AnnualReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0279,BP,BP,United Kingdom,Europe,Energy,Integrated Oil & Gas,2022,50.2,3.1,,348,53.3,0.00022,241961,GHG Protocol,CDP_2023/AnnualReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0280,Harbour Energy,HBR,United Kingdom,Europe,Energy,E&P,2022,4.1,0.3,,,4.4,0.000958,4591,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0281,HSBC,HSBA,United Kingdom,Europe,Financials,Banking,2022,0.15,0.08,,,0.23,5.00E-06,50992,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0282,GlaxoSmithKline (GSK),GSK,United Kingdom,Europe,Health Care,Pharmaceuticals,2022,0.7,0.4,,,1.1,3.80E-05,29324,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0283,AstraZeneca,AZN,United Kingdom,Europe,Health Care,Pharmaceuticals,2022,0.5,0.3,,,0.8,1.80E-05,44351,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2025,,2024-01-01 to 2025-12-31
+GHG0284,BAE Systems,BA.L,United Kingdom,Europe,Industrials,Aerospace & Defense,2022,0.7,0.3,,,1,4.30E-05,23382,GHG Protocol,SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0285,Rolls-Royce,RR.L,United Kingdom,Europe,Industrials,Aerospace & Defense,2022,0.5,0.2,,,0.7,4.80E-05,14598,GHG Protocol,SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0286,Rio Tinto,RIO,United Kingdom,Europe,Materials,Mining,2022,30.1,4.8,2.9,,34.9,0.000628,55553,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0287,Anglo American,AAL.L,United Kingdom,Europe,Materials,Mining,2022,12.3,4.6,,,16.9,0.000481,35120,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0288,DS Smith,SMDS,United Kingdom,Europe,Materials,Packaging,2022,2.4,0.9,,,3.3,0.000402,8217,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0289,Ferroglobe,GSM,United Kingdom,Europe,Materials,Silicon/Alloys,2022,2.1,1.8,,,3.9,0.001823,2139,EU_ETS/GHG Protocol,SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0290,IAG (British Airways/Iberia),IAG,United Kingdom,Europe,Transportation,Airlines,2022,13.2,0.1,0.1,,13.3,0.000577,23039,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0291,Drax Group,DRX,United Kingdom,Europe,Utilities,Biomass Power,2022,12.8,0.2,,,13,0.002146,6059,EU_ETS/GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,BECCS project underway,2024-01-01 to 2025-12-31
+GHG0292,SSE,SSE.L,United Kingdom,Europe,Utilities,Electric Power,2022,5.1,0.3,,,5.4,0.000481,11226,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0293,Centrica,CNA.L,United Kingdom,Europe,Utilities,Gas & Power,2022,4.1,0.2,,,4.3,0.000136,31696,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2045,,2024-01-01 to 2025-12-31
+GHG0294,National Grid,NG.L,United Kingdom,Europe,Utilities,Electric Power,2022,3.2,0.6,,,3.8,0.000194,19574,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0295,YPF,YPF,Argentina,Latin America,Energy,Integrated Oil & Gas,2022,7.4,0.6,,,8,0.000473,16900,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,,,2024-01-01 to 2025-12-31
+GHG0296,"JBS (Brazil, world's largest meat co.)",JBSS3,Brazil,Latin America,Consumer Staples,Meat Processing,2022,12.4,2.8,,210,15.2,0.000211,72000,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,Scope 3 dominated by cattle supply chain,2024-01-01 to 2025-12-31
+GHG0297,Marfrig,MRFG3,Brazil,Latin America,Consumer Staples,Meat Processing,2022,5.8,1.2,,,7,0.00044,15900,GHG Protocol,SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0298,Petrobras,PBR,Brazil,Latin America,Energy,Integrated Oil & Gas,2022,73,4.2,,,77.2,0.00062,124561,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0299,Embraer,ERJ,Brazil,Latin America,Industrials,Aerospace,2022,0.4,0.2,,,0.6,0.000113,5293,GHG Protocol,SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0300,Vale,VALE,Brazil,Latin America,Materials,Mining,2022,14.1,2.3,,,16.4,0.000381,43060,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0301,CSN (Companhia Siderurgica Nacional),CSNA3,Brazil,Latin America,Materials,Steel,2022,13.4,2.1,,,15.5,0.001742,8900,GHG Protocol,CDP_2023/SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0302,Usiminas,USIM5,Brazil,Latin America,Materials,Steel,2022,11.2,1.8,,,13,0.002236,5813,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,BF-BOF route,2024-01-01 to 2025-12-31
+GHG0303,Gerdau,GGBR4,Brazil,Latin America,Materials,Steel,2022,9.8,1.4,,,11.2,0.000701,15988,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,EAF-based — lower intensity,2024-01-01 to 2025-12-31
+GHG0304,Suzano,SUZB3,Brazil,Latin America,Materials,Pulp & Paper,2022,2.8,0.4,,,3.2,0.000367,8726,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,Net carbon negative from forest sink,2024-01-01 to 2025-12-31
+GHG0305,Fibria/Eldorado Brasil Celulose,—,Brazil,Latin America,Materials,Pulp & Paper,2022,2.1,0.3,,,2.4,,,GHG Protocol,SustainabilityReport_2023,FALSE,,Merged into Suzano 2019; retained for historical,2024-01-01 to 2025-12-31
+GHG0306,Eletrobras,ELET6,Brazil,Latin America,Utilities,Electric Power,2022,8.9,0.4,,,9.3,0.001177,7901,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,Privatised 2022,2024-01-01 to 2025-12-31
+GHG0307,CEMIG (Brazil),CMIG4,Brazil,Latin America,Utilities,Electric Power,2022,3.8,0.2,,,4,0.000813,4918,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,Mostly hydro,2024-01-01 to 2025-12-31
+GHG0308,CPFL Energia,CPFE3,Brazil,Latin America,Utilities,Electric Power,2022,2.1,0.2,,,2.3,0.000557,4127,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0309,Codelco,—,Chile,Latin America,Materials,Mining (Copper),2022,5.4,2.8,,,8.2,0.000469,17500,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,World's largest copper producer; state-owned,2024-01-01 to 2025-12-31
+GHG0310,LATAM Airlines,LTM,Chile,Latin America,Transportation,Airlines,2022,7.8,0.1,0.1,,7.9,0.000884,8937,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0311,Enel Chile,ENELCHILE,Chile,Latin America,Utilities,Electric Power,2022,7.8,0.2,,,8,0.002877,2781,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0312,Ecopetrol,EC,Colombia,Latin America,Energy,Integrated Oil & Gas,2022,10.2,0.8,,,11,0.000274,40100,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0313,Avianca,—,Colombia,Latin America,Transportation,Airlines,2022,3.4,0,0,,3.4,0.001214,2800,GHG Protocol,SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0314,Nemak,NEMAK,Mexico,Latin America,Consumer Discretionary,Auto Parts,2022,1.4,0.8,,,2.2,0.000535,4113,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0315,Pemex,—,Mexico,Latin America,Energy,Integrated Oil & Gas,2022,48,2.8,,,50.8,0.000511,99400,GHG Protocol (MX),SustainabilityReport_2023,FALSE,2050,High methane leakage rate,2024-01-01 to 2025-12-31
+GHG0316,Cemex,CX,Mexico,Latin America,Materials,Cement,2022,49.2,1.2,,,50.4,0.003232,15592,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0317,Acerimex (AHMSA),—,Mexico,Latin America,Materials,Steel,2022,9.8,1.6,,,11.4,,,GHG Protocol (MX),SustainabilityReport_2023,FALSE,,Mexico's only integrated steelmaker,2024-01-01 to 2025-12-31
+GHG0318,Grupo Mexico,GMEXICOB,Mexico,Latin America,Materials,Mining,2022,8.9,2.1,,,11,0.000815,13500,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,Copper mining,2024-01-01 to 2025-12-31
+GHG0319,Iraqi Oil Ministry/SOMO,—,Iraq,Middle East,Energy,Integrated Oil & Gas,2022,60,,,,60,,,IEA_Estimate,IEA_OilMarket_2023,FALSE,,Estimate from IEA; very limited disclosure,2024-01-01 to 2025-12-31
+GHG0320,Kuwait Petroleum Corporation,—,Kuwait,Middle East,Energy,Integrated Oil & Gas,2022,32,1.4,,,33.4,,,GHG Protocol,AnnualReport_2023,FALSE,,State-owned; limited disclosure,2024-01-01 to 2025-12-31
+GHG0321,QatarEnergy,—,Qatar,Middle East,Energy,LNG,2022,55,2.1,,,57.1,,,GHG Protocol,AnnualReport_2023,FALSE,2050,State-owned; world's largest LNG exporter,2024-01-01 to 2025-12-31
+GHG0322,Saudi Aramco,2222.SR,Saudi Arabia,Middle East,Energy,Integrated Oil & Gas,2022,81.8,5.2,,,87,0.000144,604124,GHG Protocol,AnnualReport_2023,TRUE,2050,World's most profitable company,2024-01-01 to 2025-12-31
+GHG0323,SABIC,2010.SR,Saudi Arabia,Middle East,Materials,Chemicals,2022,28.4,4.1,,,32.5,0.000573,56700,GHG Protocol,SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0324,Maaden (Ma'aden Saudi Mining),1211.SR,Saudi Arabia,Middle East,Materials,Mining,2022,6.8,3.4,,,10.2,0.001645,6200,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0325,Adnoc (Abu Dhabi National Oil),—,UAE,Middle East,Energy,Integrated Oil & Gas,2022,42,1.8,,,43.8,,,GHG Protocol,SustainabilityReport_2023,FALSE,2045,State-owned; net zero 2045,2024-01-01 to 2025-12-31
+GHG0326,ADNOC Distribution,2360.AD,UAE,Middle East,Energy,Fuel Retail,2022,0.9,0.2,,,1.1,0.000377,2914,GHG Protocol,SustainabilityReport_2023,FALSE,2050,,2024-01-01 to 2025-12-31
+GHG0327,Emaar Properties,EMAAR,UAE,Middle East,Real Estate,Real Estate,2022,0.4,0.8,,,1.2,0.000175,6842,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0328,Emirates Group,—,UAE,Middle East,Transportation,Airlines,2022,25.2,0.3,0.1,,25.5,0.000833,30600,GHG Protocol,SustainabilityReport_2023,FALSE,2050,State-owned; Dubai World Central,2024-01-01 to 2025-12-31
+GHG0329,Canadian Natural Resources,CNQ.TO,Canada,North America,Energy,Oil Sands,2022,21.3,1.4,,,22.7,0.000847,26803,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0330,Suncor Energy,SU.TO,Canada,North America,Energy,Oil Sands,2022,19.4,2.1,,,21.5,0.000396,54259,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,Oil sands = very high Scope 1/boe,2024-01-01 to 2025-12-31
+GHG0331,Cenovus Energy,CVE.TO,Canada,North America,Energy,Oil Sands,2022,17.9,1.2,,,19.1,0.000851,22432,GHG Protocol,SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0332,Enbridge,ENB.TO,Canada,North America,Energy,Pipelines,2022,15.4,0.9,,,16.3,0.001212,13446,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0333,TC Energy,TRP.TO,Canada,North America,Energy,Pipelines,2022,11.2,0.7,,,11.9,0.00084,14167,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0334,Imperial Oil,IMO.TO,Canada,North America,Energy,Oil Sands,2022,6.8,0.5,,,7.3,0.001498,4874,GHG Protocol,SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0335,Husky Injection Molding,—,Canada,North America,Industrials,Plastics Machinery,2022,0.3,0.2,,,0.5,,,GHG Protocol,SustainabilityReport_2023,FALSE,,Privately held,2024-01-01 to 2025-12-31
+GHG0336,CAE Inc,CAE.TO,Canada,North America,Industrials,Simulation & Training,2022,0.1,0.1,,,0.2,5.60E-05,3598,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0337,Methanex,MX,Canada,North America,Materials,Methanol,2022,5.4,0.4,,,5.8,0.001264,4590,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0338,Domtar (Paper Excellence),—,Canada,North America,Materials,Pulp & Paper,2022,4.8,0.9,,,5.7,,,GHG Protocol,SustainabilityReport_2023,FALSE,,Privately held,2024-01-01 to 2025-12-31
+GHG0339,Teck Resources,TECK.B.TO,Canada,North America,Materials,Mining,2022,4.2,1.5,,,5.7,0.000723,7888,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2045,,2024-01-01 to 2025-12-31
+GHG0340,Barrick Gold,ABX.TO,Canada,North America,Materials,Mining,2022,2.9,1.1,,,4,0.000363,11013,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0341,Resolute Forest Products,—,Canada,North America,Materials,Pulp & Paper,2022,2.1,0.4,,,2.5,,,GHG Protocol,SustainabilityReport_2023,FALSE,,Acquired by Domtar 2022,2024-01-01 to 2025-12-31
+GHG0342,Cascades Inc,CAS,Canada,North America,Materials,Packaging & Tissue,2022,1.8,0.6,,,2.4,0.000448,5362,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0343,Air Canada,AC.TO,Canada,North America,Transportation,Airlines,2022,9.8,0.1,0.1,,9.9,0.000695,14244,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0344,AT&T,T,United States,North America,Communication Services,Telecom,2022,0.7,1.2,0.9,,1.9,1.60E-05,120741,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0345,Verizon,VZ,United States,North America,Communication Services,Telecom,2022,0.5,0.9,0.7,,1.4,1.00E-05,136835,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0346,McDonald's,MCD,United States,North America,Consumer Discretionary,Restaurants,2022,4.1,0.5,,52,4.6,0.000198,23183,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,High Scope 3 from livestock supply chain,2024-01-01 to 2025-12-31
+GHG0347,General Motors,GM,United States,North America,Consumer Discretionary,Automotive,2022,3.9,2.1,0.8,177,6,3.80E-05,156735,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0348,Ford Motor,F,United States,North America,Consumer Discretionary,Automotive,2022,3.6,2.2,0.9,175,5.8,3.70E-05,158057,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,Scope 3 dominated by tailpipe emissions of sold vehicles,2024-01-01 to 2025-12-31
+GHG0349,Amazon,AMZN,United States,North America,Consumer Discretionary,E-Commerce,2022,1.78,5.2,4.1,68,6.98,1.40E-05,513983,GHG Protocol,SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0350,Starbucks,SBUX,United States,North America,Consumer Discretionary,Restaurants,2022,0.9,0.3,,,1.2,3.70E-05,32250,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0351,Tesla,TSLA,United States,North America,Consumer Discretionary,Automotive,2022,0.1,0.4,0.1,3,0.5,6.00E-06,81462,GHG Protocol,ImpactReport_2022,TRUE,,,2024-01-01 to 2025-12-31
+GHG0352,Cargill,—,United States,North America,Consumer Staples,Agricultural Trading,2022,8.4,2.1,,,10.5,6.40E-05,165000,GHG Protocol,SustainabilityReport_2023,FALSE,2050,Privately held,2024-01-01 to 2025-12-31
+GHG0353,Walmart,WMT,United States,North America,Consumer Staples,Retail,2022,5.8,8.3,5.1,231,14.1,2.50E-05,572754,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,Large Scope 3 from supply chain,2024-01-01 to 2025-12-31
+GHG0354,Archer-Daniels-Midland,ADM,United States,North America,Consumer Staples,Agricultural Processing,2022,3.8,1.2,,,5,4.90E-05,101556,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0355,Tyson Foods,TSN,United States,North America,Consumer Staples,Food,2022,3.7,1.6,,50,5.3,9.90E-05,53282,GHG Protocol,SustainabilityReport_2023,TRUE,2050,High Scope 3 from livestock,2024-01-01 to 2025-12-31
+GHG0356,Bunge Global,BG,United States,North America,Consumer Staples,Agricultural Processing,2022,3.1,0.9,,,4,5.90E-05,67234,GHG Protocol,SustainabilityReport_2023,FALSE,2050,,2024-01-01 to 2025-12-31
+GHG0357,PepsiCo,PEP,United States,North America,Consumer Staples,Beverages,2022,2.4,1.2,0.9,64,3.6,4.20E-05,86392,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0358,Target,TGT,United States,North America,Consumer Staples,Retail,2022,2.4,2.8,,,5.2,4.80E-05,109120,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0359,Coca-Cola,KO,United States,North America,Consumer Staples,Beverages,2022,2.3,0.9,0.5,,3.2,7.40E-05,43004,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0360,Costco,COST,United States,North America,Consumer Staples,Retail,2022,1.9,2.1,,,4,1.80E-05,222730,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0361,Procter & Gamble,PG,United States,North America,Consumer Staples,Household Products,2022,1.1,1.4,0.8,,2.5,3.10E-05,80187,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0362,Mondelez,MDLZ,United States,North America,Consumer Staples,Food,2022,0.9,0.4,,,1.3,4.10E-05,31496,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0363,Scotts Miracle-Gro,SMG,United States,North America,Consumer Staples,Horticulture,2022,0.3,0.2,,,0.5,0.000121,4135,GHG Protocol,SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0364,ExxonMobil,XOM,United States,North America,Energy,Integrated Oil & Gas,2022,104.1,3.6,,630,107.7,0.00027,398674,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,Scope 1+2; Scope 3 includes use of sold products,2024-01-01 to 2025-12-31
+GHG0365,Chevron,CVX,United States,North America,Energy,Integrated Oil & Gas,2022,50.4,2.1,,256,52.5,0.000223,235717,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0366,ConocoPhillips,COP,United States,North America,Energy,E&P,2022,19.5,0.9,,98,20.4,0.00026,78494,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0367,Valero Energy,VLO,United States,North America,Energy,Refining,2022,17.8,2.1,,45,19.9,0.000113,176383,GHG Protocol,SustainabilityReport_2023,TRUE,2025,,2024-01-01 to 2025-12-31
+GHG0368,Cheniere Energy,LNG,United States,North America,Energy,LNG,2022,14.8,0.5,,,15.3,0.000458,33428,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,Large LNG exporter — high Scope 1,2024-01-01 to 2025-12-31
+GHG0369,Marathon Petroleum,MPC,United States,North America,Energy,Refining,2022,13.6,1.5,,,15.1,8.40E-05,179961,GHG Protocol,SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0370,Occidental Petroleum,OXY,United States,North America,Energy,E&P,2022,13.2,1.4,,,14.6,0.000393,37108,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0371,Phillips 66,PSX,United States,North America,Energy,Refining,2022,11.9,1.8,,,13.7,7.80E-05,175702,GHG Protocol,SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0372,Kinder Morgan,KMI,United States,North America,Energy,Midstream,2022,9.4,0.4,,,9.8,0.00051,19230,GHG Protocol,SustainabilityReport_2023,FALSE,2050,,2024-01-01 to 2025-12-31
+GHG0373,Enterprise Products Partners,EPD,United States,North America,Energy,Midstream,2022,8.7,0.6,,,9.3,0.000159,58475,GHG Protocol,SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0374,Williams Companies,WMB,United States,North America,Energy,Midstream,2022,8.2,0.5,,,8.7,0.000794,10959,GHG Protocol,SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0375,EOG Resources,EOG,United States,North America,Energy,E&P,2022,5.9,0.4,,,6.3,0.000271,23272,GHG Protocol,SustainabilityReport_2023,TRUE,,,2024-01-01 to 2025-12-31
+GHG0376,Pioneer Natural Resources,PXD,United States,North America,Energy,E&P,2022,5.5,0.3,,,5.8,0.00025,23196,GHG Protocol,SustainabilityReport_2023,TRUE,,Acquired by ExxonMobil 2024,2024-01-01 to 2025-12-31
+GHG0377,Devon Energy,DVN,United States,North America,Energy,E&P,2022,5.1,0.3,,,5.4,0.000361,14948,GHG Protocol,SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0378,Halliburton,HAL,United States,North America,Energy,Oilfield Services,2022,5.1,0.7,,,5.8,0.000286,20301,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0379,Coterra Energy,CTRA,United States,North America,Energy,E&P,2022,4.8,0.3,,,5.1,0.000652,7819,GHG Protocol,SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0380,Schlumberger (SLB),SLB,United States,North America,Energy,Oilfield Services,2022,4.4,0.8,,,5.2,0.000185,28091,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0381,Baker Hughes,BKR,United States,North America,Energy,Oilfield Services,2022,3.8,0.6,,,4.4,0.000209,21078,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0382,APA Corporation,APA,United States,North America,Energy,E&P,2022,3.4,0.2,,,3.6,0.000672,5361,GHG Protocol,SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0383,Marathon Oil,MRO,United States,North America,Energy,E&P,2022,3.1,0.2,,,3.3,0.00046,7171,GHG Protocol,SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0384,JP Morgan Chase,JPM,United States,North America,Financials,Banking,2022,0.28,0.16,0.12,,0.44,3.00E-06,128695,GHG Protocol,CDP_2023/ESGReport_2023,TRUE,2050,Financed emissions much higher,2024-01-01 to 2025-12-31
+GHG0385,Bank of America,BAC,United States,North America,Financials,Banking,2022,0.23,0.14,0.1,,0.37,4.00E-06,95072,GHG Protocol,CDP_2023/ESGReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0386,Citigroup,C,United States,North America,Financials,Banking,2022,0.21,0.12,,,0.33,4.00E-06,75289,GHG Protocol,CDP_2023/ESGReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0387,Blackrock,BLK,United States,North America,Financials,Asset Management,2022,0.06,0.04,,,0.1,6.00E-06,17873,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,Operational; financed emissions excluded from this dataset,2024-01-01 to 2025-12-31
+GHG0388,Johnson & Johnson,JNJ,United States,North America,Health Care,Pharmaceuticals,2022,1.4,0.8,0.6,,2.2,2.30E-05,93775,GHG Protocol,CDP_2023/ESGPerformance_2023,TRUE,2045,,2024-01-01 to 2025-12-31
+GHG0389,Pfizer,PFE,United States,North America,Health Care,Pharmaceuticals,2022,1.2,0.7,0.5,,1.9,1.90E-05,100330,GHG Protocol,CDP_2023/ESGReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0390,Merck,MRK,United States,North America,Health Care,Pharmaceuticals,2022,1,0.6,0.5,,1.6,2.70E-05,59283,GHG Protocol,CDP_2023/ESGReport_2023,TRUE,2025,,2024-01-01 to 2025-12-31
+GHG0391,AbbVie,ABBV,United States,North America,Health Care,Pharmaceuticals,2022,0.8,0.5,,,1.3,2.20E-05,58054,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0392,Thermo Fisher Scientific,TMO,United States,North America,Health Care,Life Sciences,2022,0.8,0.5,,,1.3,2.90E-05,44915,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0393,Bristol-Myers Squibb,BMY,United States,North America,Health Care,Pharmaceuticals,2022,0.7,0.4,,,1.1,2.40E-05,46159,GHG Protocol,CDP_2023/ESGReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0394,Abbott Laboratories,ABT,United States,North America,Health Care,Medical Devices,2022,0.6,0.4,0.3,,1,2.30E-05,43653,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0395,UnitedHealth Group,UNH,United States,North America,Health Care,Managed Care,2022,0.5,0.3,,,0.8,2.00E-06,324162,GHG Protocol,CDP_2023/ESGReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0396,Amgen,AMGN,United States,North America,Health Care,Biotechnology,2022,0.5,0.3,,,0.8,3.00E-05,26323,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2027,,2024-01-01 to 2025-12-31
+GHG0397,Danaher,DHR,United States,North America,Health Care,Life Sciences,2022,0.4,0.3,,,0.7,2.20E-05,31471,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0398,Gilead Sciences,GILD,United States,North America,Health Care,Biotechnology,2022,0.3,0.2,,,0.5,1.80E-05,27282,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0399,Biogen,BIIB,United States,North America,Health Care,Biotechnology,2022,0.1,0.1,,,0.2,2.00E-05,10173,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0400,Waste Management,WM,United States,North America,Industrials,Waste Management,2022,22.1,0.4,,,22.5,0.001142,19698,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2038,High Scope 1 from landfill methane,2024-01-01 to 2025-12-31
+GHG0401,Republic Services,RSG,United States,North America,Industrials,Waste Management,2022,14.8,0.3,,,15.1,0.001117,13519,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0402,3M,MMM,United States,North America,Industrials,Diversified Manufacturing,2022,2.1,0.9,0.6,,3,8.80E-05,34229,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0403,Cummins,CMI,United States,North America,Industrials,Engines & Components,2022,1.9,0.7,,,2.6,0.000131,19808,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0404,Caterpillar,CAT,United States,North America,Industrials,Heavy Machinery,2022,1.8,0.7,,,2.5,4.20E-05,59427,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0405,Boeing,BA,United States,North America,Industrials,Aerospace & Defense,2022,1.6,0.7,,,2.3,3.50E-05,66608,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0406,Honeywell,HON,United States,North America,Industrials,Aerospace & Defense,2022,1.5,0.6,0.5,,2.1,5.90E-05,35466,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0407,General Electric,GE,United States,North America,Industrials,Diversified Industrial,2022,1.4,0.7,,,2.1,2.70E-05,76555,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0408,Raytheon Technologies (RTX),RTX,United States,North America,Industrials,Aerospace & Defense,2022,1.3,0.6,,,1.9,2.80E-05,67074,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0409,Lockheed Martin,LMT,United States,North America,Industrials,Aerospace & Defense,2022,1.1,0.5,,,1.6,2.40E-05,65984,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0410,Emerson Electric,EMR,United States,North America,Industrials,Automation,2022,0.9,0.5,,,1.4,8.80E-05,15872,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2045,,2024-01-01 to 2025-12-31
+GHG0411,Northrop Grumman,NOC,United States,North America,Industrials,Aerospace & Defense,2022,0.9,0.5,,,1.4,3.80E-05,36601,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0412,Deere & Co,DE,United States,North America,Industrials,Heavy Machinery,2022,0.8,0.4,,,1.2,2.30E-05,52577,GHG Protocol,SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0413,Parker Hannifin,PH,United States,North America,Industrials,Automation,2022,0.7,0.4,,,1.1,5.80E-05,19027,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0414,Illinois Tool Works,ITW,United States,North America,Industrials,Diversified Manufacturing,2022,0.7,0.4,,,1.1,6.90E-05,15891,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0415,Eaton,ETN,United States,North America,Industrials,Electrical Equipment,2022,0.5,0.3,,,0.8,4.10E-05,19633,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0416,Intel,INTC,United States,North America,Information Technology,Semiconductors,2022,0.61,1.9,0.9,,2.51,4.00E-05,63054,GHG Protocol,CDP_2023/CSRReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0417,Alphabet (Google),GOOGL,United States,North America,Information Technology,Internet,2022,0.55,1.5,0.6,,2.05,7.00E-06,282836,GHG Protocol,CDP_2023/EnvironmentalReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0418,Apple,AAPL,United States,North America,Information Technology,Consumer Electronics,2022,0.28,0.03,0.02,22.5,0.31,1.00E-06,394328,GHG Protocol,CDP_2023/EnvironmentalProgress_2023,TRUE,2030,Scope 3 = 22.5 Mt; Scope 1+2 very low,2024-01-01 to 2025-12-31
+GHG0419,IBM,IBM,United States,North America,Information Technology,IT Services,2022,0.25,0.18,,,0.43,7.00E-06,60530,GHG Protocol,CDP_2023/EnvironmentalReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0420,HP Inc,HPQ,United States,North America,Information Technology,PCs & Printers,2022,0.18,0.12,,,0.3,5.00E-06,62983,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0421,Meta Platforms,META,United States,North America,Information Technology,Internet,2022,0.16,0.05,0.04,,0.21,2.00E-06,116609,GHG Protocol,SustainabilityReport_2023,TRUE,2030,Net zero Scope 1+2 since 2020,2024-01-01 to 2025-12-31
+GHG0422,Microsoft,MSFT,United States,North America,Information Technology,Software,2023,0.14,0.11,0.07,15,0.25,1.00E-06,211915,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,Carbon negative commitment by 2030,2024-01-01 to 2025-12-31
+GHG0423,Nvidia,NVDA,United States,North America,Information Technology,Semiconductors,2023,0.08,0.12,0.05,,0.2,4.00E-06,44870,GHG Protocol,CDP_2023/CorporateResp_2023,TRUE,2025,Very low direct emissions,2024-01-01 to 2025-12-31
+GHG0424,Salesforce,CRM,United States,North America,Information Technology,Software,2022,0.05,0.08,0.04,,0.13,5.00E-06,26492,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,Net zero emissions already,2024-01-01 to 2025-12-31
+GHG0425,Nucor,NUE,United States,North America,Materials,Steel,2022,24.8,4.2,,,29,0.000795,36483,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,EAF-based; lower emissions than BF-BOF,2024-01-01 to 2025-12-31
+GHG0426,Cleveland-Cliffs,CLF,United States,North America,Materials,Steel,2022,16.8,2.8,,,19.6,0.000852,23005,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0427,LyondellBasell,LYB,United States,North America,Materials,Chemicals,2022,12.7,3.5,,,16.2,0.000321,50464,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0428,Linde plc,LIN,United States,North America,Materials,Industrial Gases,2022,12.4,6.8,5.1,,19.2,0.000575,33364,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0429,Dow Inc,DOW,United States,North America,Materials,Chemicals,2022,11.3,4.1,,85,15.4,0.000271,56902,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0430,United States Steel,X,United States,North America,Materials,Steel,2022,10.6,2.1,,,12.7,0.000602,21090,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0431,Air Products,APD,United States,North America,Materials,Industrial Gases,2022,9.1,4.2,,,13.3,0.001047,12704,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0432,CF Industries,CF,United States,North America,Materials,Fertilizers,2022,8.9,0.6,,,9.5,0.001231,7715,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,Ammonia / fertilizer — high Scope 1,2024-01-01 to 2025-12-31
+GHG0433,Alcoa,AA,United States,North America,Materials,Aluminium,2022,8.1,7.8,6.4,,15.9,0.001277,12451,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0434,Steel Dynamics,STLD,United States,North America,Materials,Steel,2022,6.4,1.2,,,7.6,0.000413,18398,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,EAF-based,2024-01-01 to 2025-12-31
+GHG0435,International Paper,IP,United States,North America,Materials,Paper,2022,5.8,2.4,,,8.2,0.000388,21158,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0436,Freeport-McMoRan,FCX,United States,North America,Materials,Mining,2022,4.9,3.8,,,8.7,0.000381,22855,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,Copper mining,2024-01-01 to 2025-12-31
+GHG0437,Martin Marietta,MLM,United States,North America,Materials,Aggregates,2022,4.8,0.8,,,5.6,0.000922,6074,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0438,Commercial Metals Company,CMC,United States,North America,Materials,Steel,2022,4.2,0.8,,,5,0.000709,7051,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,EAF — lowest-carbon US steel,2024-01-01 to 2025-12-31
+GHG0439,Vulcan Materials,VMC,United States,North America,Materials,Aggregates,2022,4.1,0.7,,,4.8,0.000678,7079,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0440,Mosaic Company,MOS,United States,North America,Materials,Fertilizers,2022,3.9,1.7,,,5.6,0.000285,19640,GHG Protocol,SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0441,Nucor Steel Gallatin,—,United States,North America,Materials,Steel,2022,3.8,0.6,,,4.4,,,GHG Protocol,EPA_GHGRP_2023,TRUE,,GHGRP facility-level data,2024-01-01 to 2025-12-31
+GHG0442,Summit Materials,SUM,United States,North America,Materials,Building Materials,2022,3.7,0.5,,,4.2,0.001218,3449,GHG Protocol,CDP_2023/SustainabilityReport_2023,FALSE,2050,,2024-01-01 to 2025-12-31
+GHG0443,Arconic,—,United States,North America,Materials,Aluminium,2022,3.4,2.1,,,5.5,0.000949,5798,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0444,Olin Corporation,OLN,United States,North America,Materials,Chemicals,2022,3.4,1.4,,,4.8,0.000537,8936,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,Chlor-alkali — high Scope 1,2024-01-01 to 2025-12-31
+GHG0445,Eagle Materials,EXP,United States,North America,Materials,Cement,2022,3.4,0.4,,,3.8,0.001811,2098,GHG Protocol,SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0446,Packaging Corp of America,PKG,United States,North America,Materials,Paper & Packaging,2022,3.4,1.2,,,4.6,0.000543,8466,GHG Protocol,SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0447,Newmont,NEM,United States,North America,Materials,Mining,2022,3.2,1.1,,,4.3,0.000361,11915,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,Gold mining,2024-01-01 to 2025-12-31
+GHG0448,Eastman Chemical,EMN,United States,North America,Materials,Chemicals,2022,2.9,1.2,,,4.1,0.000388,10576,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0449,Huntsman Corporation,HUN,United States,North America,Materials,Chemicals,2022,2.8,1.1,,,3.9,0.000488,8000,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0450,Celanese,CE,United States,North America,Materials,Chemicals,2022,2.3,0.9,,,3.2,0.000331,9664,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0451,Tronox,TROX,United States,North America,Materials,Titanium Dioxide,2022,2.1,0.9,,,3,0.000909,3302,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0452,Sonoco Products,SON,United States,North America,Materials,Packaging,2022,2.1,0.9,,,3,0.000446,6724,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0453,Tronox Holdings,TROX,United States,North America,Materials,Chemicals,2022,2.1,0.9,,,3,0.000909,3302,GHG Protocol,SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0454,United States Gypsum,USG,United States,North America,Materials,Building Products,2022,1.4,0.5,,,1.9,,,GHG Protocol,SustainabilityReport_2023,FALSE,,Subsidiary of Knauf,2024-01-01 to 2025-12-31
+GHG0455,Berry Global,BERY,United States,North America,Materials,Packaging,2022,1.4,0.7,,,2.1,0.000145,14492,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0456,Weyerhaeuser,WY,United States,North America,Materials,Timber,2022,1.2,0.4,,,1.6,0.000156,10228,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,Net forest carbon sink,2024-01-01 to 2025-12-31
+GHG0457,US Silica,SLCA,United States,North America,Materials,Mining,2022,1.2,0.4,,,1.6,0.001126,1421,GHG Protocol,SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0458,Corteva Agriscience,CTVA,United States,North America,Materials,Agrochemicals,2022,1.1,0.5,,,1.6,9.20E-05,17455,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0459,Sealed Air,SEE,United States,North America,Materials,Packaging,2022,1.1,0.6,,,1.7,0.000301,5648,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0460,PPG Industries,PPG,United States,North America,Materials,Paints & Coatings,2022,0.9,0.5,,,1.4,7.90E-05,17700,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0461,Cabot Corporation,CBT,United States,North America,Materials,Specialty Chemicals,2022,0.8,0.4,,,1.2,0.000326,3680,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0462,Albemarle,ALB,United States,North America,Materials,Specialty Chemicals,2022,0.6,0.3,,,0.9,0.000123,7321,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,Lithium mining for batteries,2024-01-01 to 2025-12-31
+GHG0463,Ferro Corporation,—,United States,North America,Materials,Specialty Materials,2022,0.6,0.3,,,0.9,,,GHG Protocol,SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0464,RPM International,RPM,United States,North America,Materials,Coatings,2022,0.5,0.3,,,0.8,0.000115,6929,GHG Protocol,SustainabilityReport_2023,FALSE,2050,,2024-01-01 to 2025-12-31
+GHG0465,Ashland,ASH,United States,North America,Materials,Specialty Chemicals,2022,0.4,0.2,,,0.6,0.00025,2401,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0466,FMC Corporation,FMC,United States,North America,Materials,Agrochemicals,2022,0.3,0.2,,,0.5,8.70E-05,5757,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0467,CBRE Group,CBRE,United States,North America,Real Estate,Real Estate Services,2022,0.4,0.8,,,1.2,3.90E-05,30765,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0468,Simon Property Group,SPG,United States,North America,Real Estate,Retail REIT,2022,0.2,0.6,,,0.8,0.000157,5102,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0469,Prologis,PLD,United States,North America,Real Estate,Industrial REIT,2022,0.1,0.5,,,0.6,0.0001,5973,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0470,American Airlines,AAL,United States,North America,Transportation,Airlines,2022,24.9,0.1,0.1,,25,0.000474,52788,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0471,Delta Air Lines,DAL,United States,North America,Transportation,Airlines,2022,23,0.1,0.1,,23.1,0.000457,50582,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0472,United Airlines,UAL,United States,North America,Transportation,Airlines,2022,22.2,0.1,0.1,,22.3,0.000496,44955,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,Scope 3 includes passenger travel,2024-01-01 to 2025-12-31
+GHG0473,Southwest Airlines,LUV,United States,North America,Transportation,Airlines,2022,15.1,0.1,0.1,,15.2,0.000638,23814,GHG Protocol,SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0474,UPS,UPS,United States,North America,Transportation,Logistics,2022,12.8,1.6,,,14.4,0.000144,100338,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0475,FedEx,FDX,United States,North America,Transportation,Logistics,2022,11.2,1.4,,,12.6,0.000135,93512,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0476,Union Pacific,UNP,United States,North America,Transportation,Rail,2022,8.7,0.2,,,8.9,0.000358,24875,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0477,JetBlue,JBLU,United States,North America,Transportation,Airlines,2022,6.1,0,0,,6.1,0.000666,9156,GHG Protocol,SustainabilityReport_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0478,CSX,CSX,United States,North America,Transportation,Rail,2022,5.2,0.1,,,5.3,0.000357,14856,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0479,Norfolk Southern,NSC,United States,North America,Transportation,Rail,2022,4.8,0.1,,,4.9,0.000386,12688,GHG Protocol,CDP_2023/SustainabilityReport_2023,TRUE,2030,,2024-01-01 to 2025-12-31
+GHG0480,Duke Energy,DUK,United States,North America,Utilities,Electric Power,2022,82.1,0.6,,,82.7,0.002876,28756,GHG Protocol,EPA_GHGRP_2023/CDP_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0481,American Electric Power,AEP,United States,North America,Utilities,Electric Power,2022,71.3,0.5,,,71.8,0.003657,19631,GHG Protocol,EPA_GHGRP_2023/CDP_2023,TRUE,2045,,2024-01-01 to 2025-12-31
+GHG0482,Southern Company,SO,United States,North America,Utilities,Electric Power,2022,50.2,0.4,,,50.6,0.002119,23876,GHG Protocol,EPA_GHGRP_2023/CDP_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0483,Xcel Energy,XEL,United States,North America,Utilities,Electric Power,2022,39.8,0.2,,,40,0.002795,14313,GHG Protocol,EPA_GHGRP_2023/CDP_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0484,Pacific Power (PacifiCorp),—,United States,North America,Utilities,Electric Power,2022,34.2,0.4,,,34.6,,,GHG Protocol,EPA_GHGRP_2023,TRUE,2050,Berkshire Hathaway Energy,2024-01-01 to 2025-12-31
+GHG0485,NextEra Energy,NEE,United States,North America,Utilities,Electric Power,2022,33.1,0.3,,,33.4,0.001594,20956,GHG Protocol,EPA_GHGRP_2023/CDP_2023,TRUE,2045,,2024-01-01 to 2025-12-31
+GHG0486,Ameren,AEE,United States,North America,Utilities,Electric Power,2022,26.8,0.3,,,27.1,0.0039,6948,GHG Protocol,EPA_GHGRP_2023,TRUE,2045,,2024-01-01 to 2025-12-31
+GHG0487,Entergy,ETR,United States,North America,Utilities,Electric Power,2022,25.2,0.3,,,25.5,0.002039,12507,GHG Protocol,EPA_GHGRP_2023/CDP_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0488,Dominion Energy,D,United States,North America,Utilities,Electric Power,2022,24.6,0.3,,,24.9,0.001448,17197,GHG Protocol,EPA_GHGRP_2023/CDP_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0489,Georgia Power,—,United States,North America,Utilities,Electric Power,2022,22.4,0.3,,,22.7,,,GHG Protocol,EPA_GHGRP_2023,TRUE,2035,Southern Company subsidiary,2024-01-01 to 2025-12-31
+GHG0490,Evergy,EVRG,United States,North America,Utilities,Electric Power,2022,21.5,0.2,,,21.7,0.007671,2829,GHG Protocol,EPA_GHGRP_2023,TRUE,2045,,2024-01-01 to 2025-12-31
+GHG0491,Talen Energy,—,United States,North America,Utilities,Electric Power,2022,18.9,0.2,,,19.1,0.010192,1874,GHG Protocol,EPA_GHGRP_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0492,WEC Energy Group,WEC,United States,North America,Utilities,Electric Power,2022,18.4,0.2,,,18.6,0.002297,8098,GHG Protocol,EPA_GHGRP_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0493,Rocky Mountain Power,—,United States,North America,Utilities,Electric Power,2022,18.1,0.2,,,18.3,,,GHG Protocol,EPA_GHGRP_2023,TRUE,2050,PacifiCorp subsidiary,2024-01-01 to 2025-12-31
+GHG0494,Arizona Public Service (APS),—,United States,North America,Utilities,Electric Power,2022,16.2,0.2,,,16.4,,,GHG Protocol,EPA_GHGRP_2023,TRUE,2050,Pinnacle West subsidiary,2024-01-01 to 2025-12-31
+GHG0495,Ameren Missouri,—,United States,North America,Utilities,Electric Power,2022,14.8,0.2,,,15,,,GHG Protocol,EPA_GHGRP_2023,TRUE,2045,Subsidiary of Ameren,2024-01-01 to 2025-12-31
+GHG0496,CMS Energy,CMS,United States,North America,Utilities,Electric Power,2022,14.2,0.2,,,14.4,0.001995,7218,GHG Protocol,EPA_GHGRP_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0497,Alliant Energy,LNT,United States,North America,Utilities,Electric Power,2022,12.4,0.2,,,12.6,0.003149,4001,GHG Protocol,EPA_GHGRP_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0498,OGE Energy (Oklahoma Gas & Electric),OGE,United States,North America,Utilities,Electric Power,2022,11.4,0.1,,,11.5,0.004662,2467,GHG Protocol,EPA_GHGRP_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0499,Exelon,EXC,United States,North America,Utilities,Electric Power,2022,9.8,0.5,,,10.3,0.000535,19244,GHG Protocol,EPA_GHGRP_2023/CDP_2023,TRUE,2050,Mostly nuclear — low Scope 1,2024-01-01 to 2025-12-31
+GHG0500,PPL Corporation,PPL,United States,North America,Utilities,Electric Power,2022,8.9,0.2,,,9.1,0.001152,7897,GHG Protocol,EPA_GHGRP_2023,TRUE,2050,,2024-01-01 to 2025-12-31
+GHG0501,Cleco Corporate Holdings,—,United States,North America,Utilities,Electric Power,2022,7.4,0.1,,,7.5,,,GHG Protocol,EPA_GHGRP_2023,FALSE,,,2024-01-01 to 2025-12-31
+GHG0502,Black Hills Corp,BKH,United States,North America,Utilities,Electric Power,2022,5.8,0.1,,,5.9,0.003375,1748,GHG Protocol,EPA_GHGRP_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0503,Portland General Electric,POR,United States,North America,Utilities,Electric Power,2022,4.9,0.1,,,5,0.001603,3119,GHG Protocol,EPA_GHGRP_2023/CDP_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0504,Pacific Gas & Electric,PCG,United States,North America,Utilities,Electric Power,2022,3.4,0.4,,,3.8,0.000172,22033,GHG Protocol,EPA_GHGRP_2023/CDP_2023,TRUE,2040,Mostly hydro/nuclear,2024-01-01 to 2025-12-31
+GHG0505,Otter Tail Corporation,OTTR,United States,North America,Utilities,Electric Power,2022,2.8,0.1,,,2.9,0.002929,990,GHG Protocol,EPA_GHGRP_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0506,Consolidated Edison,ED,United States,North America,Utilities,Electric Power,2022,2.1,0.3,,,2.4,0.000159,15058,GHG Protocol,EPA_GHGRP_2023/CDP_2023,TRUE,2040,,2024-01-01 to 2025-12-31
+GHG0507,Avangrid,AGR,United States,North America,Utilities,Gas & Renewables,2022,2.1,0.2,,,2.3,0.000313,7338,GHG Protocol,EPA_GHGRP_2023,TRUE,2035,,2024-01-01 to 2025-12-31
+GHG0508,Eversource Energy,ES,United States,North America,Utilities,Electric Power,2022,1.8,0.1,,,1.9,0.000201,9440,GHG Protocol,EPA_GHGRP_2023,TRUE,2030,Mostly hydro/gas dist,2024-01-01 to 2025-12-31
